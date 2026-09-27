@@ -19,10 +19,10 @@ tools/docx_to_json.py # penukar docx -> json (stdlib Python sahaja)
 1. Letak docx dalam `sources/`.
 2. Jalankan:
    ```bash
-   python3 tools/docx_to_json.py sources/Batch_02_xxx.docx --id lelaki-emas-02 \
-     --label "Lelaki-Emas-3-Scene-02" --tags "lelaki,emas,3-scene,batch-02"
+   python3 tools/docx_to_json.py sources/Batch_07_xxx.docx --id b07-nama-batch \
+     --label "Nama-Batch-3-Scene-07" --tags "lelaki,emas,3-scene,batch-07"
    ```
-   Script akan tulis `data/lelaki-emas-02.json` dan kemas kini `data/manifest.json`, dan beri amaran kalau ada scene yang dialog/panel tak cukup.
+   Script akan tulis `data/b07-nama-batch.json` dan kemas kini `data/manifest.json`, dan beri amaran kalau ada scene yang dialog/panel tak cukup.
 3. Commit & push. GitHub Pages terus update.
 
 Format docx yang dijangka: `Heading 1` = `Set NN: Tajuk`, `Heading 2` = `Scene N: ...`, prompt image bermula `(A)`/`Bahagian 1`, prompt video bermula `(B)`/`Bahagian 2`.
