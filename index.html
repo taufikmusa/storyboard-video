@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ms">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Storyboard Vault</title>
+<meta name="description" content="Prompt storyboard & prompt video — cari, buka, salin. Terus guna.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <h1>🎬 Storyboard Vault</h1>
+    <p>Prompt storyboard &amp; prompt video — cari, buka, salin. Terus guna.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="daily">
+    <div>
+      <div class="daily-date" id="today">📅</div>
+      <div class="daily-sub">Tak tahu nak buat video apa hari ni?</div>
+    </div>
+    <div class="daily-actions">
+      <button class="btn btn-gold" id="btnSuggest">✨ Cadangan 5</button>
+      <button class="btn btn-ghost" id="btnRandom">🎲 Pilih rawak</button>
+    </div>
+  </section>
+
+  <div class="search">
+    <span>🔍</span>
+    <input id="q" type="search" placeholder="Cari ikut tajuk, dialog, aksi panel, atau tag…" autocomplete="off">
+  </div>
+
+  <div class="chips" id="batchChips"></div>
+  <div class="chips chips-sm" id="sceneChips"></div>
+
+  <div class="filters">
+    <label><input type="checkbox" id="fUnused"> Tunjuk yang belum guna sahaja</label>
+    <label><input type="checkbox" id="fUsed"> Tunjuk yang dah guna sahaja</label>
+    <button class="linkbtn" id="btnGuide">📘 Panduan batch</button>
+  </div>
+
+  <div class="progress">
+    <div class="progress-row"><span>Progress guna topik</span><b id="progText">0 / 0 (0%)</b></div>
+    <div class="bar"><i id="progBar"></i></div>
+  </div>
+
+  <div class="meta"><span id="showing">Memuatkan…</span><span id="usedCount"></span></div>
+
+  <div id="suggestBox" class="suggest" hidden></div>
+  <div class="grid" id="grid"></div>
+  <div class="more"><button class="btn btn-ghost" id="btnMore" hidden>Muat lagi</button></div>
+</main>
+
+<footer class="wrap foot">Storyboard Vault · data dari <code>data/*.json</code> · status "dah guna" disimpan dalam browser ni sahaja</footer>
+
+<dialog id="modal">
+  <div class="modal-head"><h2 id="mTitle"></h2><button class="x" id="mClose" aria-label="Tutup">✕</button></div>
+  <div class="modal-body" id="mBody"></div>
+</dialog>
+
+<div class="toast" id="toast"></div>
+<script src="assets/app.js"></script>
+</body>
+</html>
