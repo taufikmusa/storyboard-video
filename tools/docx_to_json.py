@@ -45,13 +45,24 @@ def section(lines, header_re):
     return out
 
 
+GLASSES_LINE = "She wears glasses."
+
+
+def add_glasses_line(prompt):
+    """Tambah ayat cermin mata di hujung perenggan 'Main Character:' (storyboard Scene 3)."""
+    m = re.search(r"Main Character:\n(.+?)(?=\n\n|$)", prompt, flags=re.S)
+    if not m or GLASSES_LINE in m.group(1):
+        return prompt
+    return prompt[:m.end(1)] + " " + GLASSES_LINE + prompt[m.end(1):]
+
+
 def parse_scene(num, heading, body):
     split = next((i for i, l in enumerate(body)
                   if re.match(r"^\(B\)|^Bahagian 2", l.strip())), len(body))
     img, vid = body[:split], body[split:]
     img_label = img[0].strip() if img else ""
     vid_label = vid[0].strip() if vid else ""
-    image_prompt = clean_block(img[1:])
+    image_prompt = add_glasses_line(clean_block(img[1:]))
     video_prompt = clean_block(vid[1:])
 
     dialog = []
