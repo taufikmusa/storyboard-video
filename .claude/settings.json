@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/docx_to_json.py *)",
+      "mcp__github__create_pull_request",
+      "mcp__github__merge_pull_request"
+    ]
+  },
+  "autoMode": {
+    "allow": [
+      "$defaults",
+      "In taufikmusa/storyboard-video, the owner has authorized Claude to merge its own batch-upload PRs into main without waiting for review, after the converter reports no warnings and the page loads without errors."
+    ]
+  }
+}
