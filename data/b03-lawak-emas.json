@@ -1,0 +1,1884 @@
+{
+ "id": "b03-lawak-emas",
+ "label": "Lawak-Emas-3-Scene-03",
+ "title": "SIRI PROMPT 3 SCENE (BATCH 03)",
+ "source": "Batch_03_Prompt_3_Scene_Lawak_Emas.docx",
+ "tags": [
+  "lawak",
+  "emas",
+  "3-scene",
+  "batch-03"
+ ],
+ "guide": [
+  {
+   "h": "Panduan & Peraturan Teras (Batch 03 - Edisi Lawak Santai)"
+  },
+  {
+   "p": "Dokumen Batch 03 membawakan 10 set lengkap siri video 3 babak (3 Scene) bersiri berangkai dengan suntikan komedi santai, punchline kelakar, dan situasi mencuit hati masyarakat Malaysia dalam Scene 1 dan Scene 2. Duo pemuda 3D (Amir & Hafiz) membawakan dialog berunsur lawak bersahaja tetapi mengandungi sindiran kewangan yang tajam dan menusuk jiwa ('lawak santai tapi sampai'). Scene 3 kekal membawakan hos wanita live-action berhijab kemas dan berkaca mata moden yang menyimpulkan iktibar lawak tersebut kepada solusi simpanan emas fizikal Public Gold."
+  },
+  {
+   "h": "1. Peraturan Teras & Etiket Aurat Terperinci"
+  },
+  {
+   "items": [
+    "Strict Zero Gold Rule (Scene 1 & Scene 2): Bebas sepenuhnya daripada sebarang visual emas fizikal (jongkong, syiling, dinar, barang kemas) dan dilarang menyebut perkataan 'emas' atau 'gold' dalam dialog Scene 1 dan 2.",
+    "Penutupan Aurat Sempurna (Mandatori Semua Watak Utama & Sampingan): Dalam setiap suasana komedi, semua watak sampingan (kawan lepak, pelayan restoran, juruwang, orang awam di mesin ATM) wajib menutup aurat sempurna. Watak wanita sampingan bertudung kemas sempurna, berbaju longgar lengan panjang melepasi pergelangan tangan, tidak ketat dan tidak jarang. Watak lelaki sampingan berseluar panjang melepasi lutut dan berpakaian sopan. Hos wanita di Scene 3 wajib berhijab kemas dan memakai inner handsocks menutup pergelangan tangan (dinyatakan dalam 3 lokasi mandatori: Main Character, Requirements, dan Video Prompt).",
+    "Aksesori Cermin Mata (Hos Scene 3): Hos wanita sentiasa memakai cermin mata moden berbingkai nipis (stylish modern slim-frame spectacles) yang konsisten di semua panel dan video.",
+    "Larangan Tabung Ayam/Khinzir: Dilarang memasukkan objek atau simbol tabung khinzir (piggy bank) dalam keseluruhan babak."
+   ]
+  },
+  {
+   "h": "2. Character Reference Sheet"
+  },
+  {
+   "items": [
+    "Amir (Animasi 3D, 25 Tahun): Pemuda bersahaja, berambut hitam kemas, berpakaian kemas sopan. Watak 'straight man' yang memberikan punchline teguran pedas tapi tenang dan penuh kebenaran.",
+    "Hafiz (Animasi 3D, 25 Tahun): Pemuda ekspresif, mimik muka komedi yang hidup (wide eyes, pouts, panic smiles), berpakaian kasual santai sopan. Watak lucu yang sering berdepan dilema kewangan melucukan akibat tabiat boros diri sendiri.",
+    "Hos Wanita Live-Action (Scene 3): Wanita Melayu profesional berhijab pastel beige kemas, memakai cermin mata moden berbingkai nipis elegan, blaus hijau zamrud sopan berlengan panjang penuh dengan inner handsocks menutup pergelangan tangan.",
+    "Watak-watak Sampingan (Orang Awam, Rakan Pejabat, Juruwang): Semua lelaki berseluar panjang sopan; semua wanita bertudung sempurna, berpakaian longgar dan berlengan panjang menutup aurat penuh."
+   ]
+  }
+ ],
+ "sets": [
+  {
+   "set": 21,
+   "title": "Diet Air Suam Hujung Bulan Terpaksa",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 1: Situasi Harian",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. apartment dining table, Hafiz comically gulping down a giant jug of warm plain water with a bloated, miserable face while rubbing his belly, Amir sitting opposite eating a modest banana looking unimpressed. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Aku amalkan diet sihat sekarang.\"\nHafiz: \"Minum air suam sampai kembung!\"\nAmir: \"Diet sihat atau dompet kering?\"\nHafiz: \"Baki akaun tinggal dua ringgit!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Aku amalkan diet sihat sekarang."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Minum air suam sampai kembung!"
+      },
+      {
+       "who": "Amir",
+       "line": "Diet sihat atau dompet kering?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Baki akaun tinggal dua ringgit!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. the same apartment kitchen, Hafiz happily enjoying a balanced, delicious home-cooked dinner plate, smiling warmly with peaceful eyes, Amir clinking water glasses in celebration of good budgeting. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Bulan ni makan kenyang selalu.\"\nHafiz: \"Sebab asingkan bajet awal bulan.\"\nAmir: \"Bagus, tak ada diet terpaksa.\"\nHafiz: \"Perut kenyang simpanan pun selamat!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Bulan ni makan kenyang selalu."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Sebab asingkan bajet awal bulan."
+      },
+      {
+       "who": "Amir",
+       "line": "Bagus, tak ada diet terpaksa."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Perut kenyang simpanan pun selamat!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 1: Situasi Harian), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 1: Situasi Harian).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Pernah ikat perut hujung bulan?\"\n\"Bukan sengaja tetapi duit bocor.\"\n\"Tukarkan wang belanja kepada emas,\"\n\"kewangan anda kukuh sepanjang masa!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Pernah ikat perut hujung bulan?"
+      },
+      {
+       "who": "Hos",
+       "line": "Bukan sengaja tetapi duit bocor."
+      },
+      {
+       "who": "Hos",
+       "line": "Tukarkan wang belanja kepada emas,"
+      },
+      {
+       "who": "Hos",
+       "line": "kewangan anda kukuh sepanjang masa!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 1: Situasi Harian)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 1: Situasi Harian), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 1: Situasi Harian"
+  },
+  {
+   "set": 22,
+   "title": "Muka Kacak Baki Mesin ATM Menangis",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 2: Pengakuan Silap",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. outdoor suburban bank ATM lobby, Hafiz dressed in fancy sharp clothes and trendy sunglasses looking horrified as the ATM screen beeps a red insufficient balance warning with onlookers standing in a neat line behind him, Amir facepalming. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Pakai kemas wangi nak lepak.\"\nHafiz: \"Mesin tolak kad baki sikit!\"\nAmir: \"Gaya bergaya baki lima ringgit?\"\nHafiz: \"Malu betul depan orang ramai!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Pakai kemas wangi nak lepak."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Mesin tolak kad baki sikit!"
+      },
+      {
+       "who": "Amir",
+       "line": "Gaya bergaya baki lima ringgit?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Malu betul depan orang ramai!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. the ATM lobby, Hafiz smiling with genuine confidence as he withdraws money with a healthy account balance, Amir giving a thumbs-up beside him as they walk away in dignity. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Sekarang baki bank sentiasa cukup.\"\nHafiz: \"Aku tolak gaya hidup palsu.\"\nAmir: \"Kekayaan sebenar bukan pada gaya.\"\nHafiz: \"Hati tenang tanpa perlu menunjuk!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Sekarang baki bank sentiasa cukup."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Aku tolak gaya hidup palsu."
+      },
+      {
+       "who": "Amir",
+       "line": "Kekayaan sebenar bukan pada gaya."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Hati tenang tanpa perlu menunjuk!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 2: Pengakuan Silap), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 2: Pengakuan Silap).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Saya dulu utamakan gaya luaran,\"\n\"hakikatnya akaun bank selalu kosong.\"\n\"Bila mula menyimpan emas fizikal,\"\n\"kekayaan sebenar dibina secara senyap!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Saya dulu utamakan gaya luaran,"
+      },
+      {
+       "who": "Hos",
+       "line": "hakikatnya akaun bank selalu kosong."
+      },
+      {
+       "who": "Hos",
+       "line": "Bila mula menyimpan emas fizikal,"
+      },
+      {
+       "who": "Hos",
+       "line": "kekayaan sebenar dibina secara senyap!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 2: Pengakuan Silap)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 2: Pengakuan Silap), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 2: Pengakuan Silap"
+  },
+  {
+   "set": 23,
+   "title": "Beli Barang Tiga Ratus Demi Payung Percuma",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 3: Jawab Bantahan",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. apartment living room, Hafiz proudly showing off an oversized cheap umbrella and canvas tote bag amidst heaps of unnecessary shopping receipts, Amir holding a tiny pocket umbrella with a dry, deadpan stare. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Tengok payung percuma aku dapat!\"\nHafiz: \"Syarat belanja tiga ratus ringgit.\"\nAmir: \"Beli payung kedai baru sepuluh!\"\nHafiz: \"Terperangkap hadiah percuma punya pasal!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Tengok payung percuma aku dapat!"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Syarat belanja tiga ratus ringgit."
+      },
+      {
+       "who": "Amir",
+       "line": "Beli payung kedai baru sepuluh!"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Terperangkap hadiah percuma punya pasal!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. apartment living room, Hafiz happily reviewing his neat digital expense log on his phone, smiling with satisfaction at having rejected cheap promotional gimmicks, Amir giving an approving nod. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Aku tak tergoda hadiah percuma.\"\nHafiz: \"Beli barang yang perlu saja.\"\nAmir: \"Jimat ratusan ringgit setiap bulan.\"\nHafiz: \"Duit selamat tak melayang sia-sia!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Aku tak tergoda hadiah percuma."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Beli barang yang perlu saja."
+      },
+      {
+       "who": "Amir",
+       "line": "Jimat ratusan ringgit setiap bulan."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Duit selamat tak melayang sia-sia!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 3: Jawab Bantahan), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 3: Jawab Bantahan).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Ramai kata tiada wang menyimpan,\"\n\"tetapi mudah terpedaya promosi percuma.\"\n\"Kunci nilai wang dalam emas,\"\n\"aset selamat pelindung masa depan!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Ramai kata tiada wang menyimpan,"
+      },
+      {
+       "who": "Hos",
+       "line": "tetapi mudah terpedaya promosi percuma."
+      },
+      {
+       "who": "Hos",
+       "line": "Kunci nilai wang dalam emas,"
+      },
+      {
+       "who": "Hos",
+       "line": "aset selamat pelindung masa depan!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 3: Jawab Bantahan)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 3: Jawab Bantahan), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 3: Jawab Bantahan"
+  },
+  {
+   "set": 24,
+   "title": "Kucing Makan Salmon Tuan Hirup Mi Segera",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 4: Soalan + Reveal",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. kitchen floor, Hafiz lovingly serving a gourmet salmon platter with decorative garnish to a chubby domestic cat while himself forlornly blowing on a plain bowl of instant noodles, Amir leaning on the doorframe shaking head. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Kucing aku makan salmon import.\"\nHafiz: \"Aku hirup kuah mi segera!\"\nAmir: \"Sayang kucing bajet sendiri koyak?\"\nHafiz: \"Kucing gemuk poket tuan kurus!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Kucing aku makan salmon import."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Aku hirup kuah mi segera!"
+      },
+      {
+       "who": "Amir",
+       "line": "Sayang kucing bajet sendiri koyak?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Kucing gemuk poket tuan kurus!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. kitchen dining table, Hafiz happily sharing a nutritious balanced meal with proper budgeting for both his beloved pet and himself, no more instant noodles, Amir smiling warmly. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Sekarang bajet kucing dah disusun.\"\nHafiz: \"Makan seimbang belanja pun terkawal.\"\nAmir: \"Dua-dua kenyang poket pun selamat.\"\nHafiz: \"Lega tak perlu makan mi!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Sekarang bajet kucing dah disusun."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Makan seimbang belanja pun terkawal."
+      },
+      {
+       "who": "Amir",
+       "line": "Dua-dua kenyang poket pun selamat."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Lega tak perlu makan mi!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 4: Soalan + Reveal), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 4: Soalan + Reveal).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Tahu tak ke mana wang pergi?\"\n\"Belanja emosi tanpa kawalan bajet.\"\n\"Asingkan simpanan awal dalam emas,\"\n\"duit terselamat masa depan cerah!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Tahu tak ke mana wang pergi?"
+      },
+      {
+       "who": "Hos",
+       "line": "Belanja emosi tanpa kawalan bajet."
+      },
+      {
+       "who": "Hos",
+       "line": "Asingkan simpanan awal dalam emas,"
+      },
+      {
+       "who": "Hos",
+       "line": "duit terselamat masa depan cerah!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 4: Soalan + Reveal)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 4: Soalan + Reveal), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 4: Soalan + Reveal"
+  },
+  {
+   "set": 25,
+   "title": "Self-Reward Melampau Selepas Kerja Lima Minit",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 5: Milestone",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. office workspace desk, Hafiz dramatically collapsing onto his office chair claiming extreme burnout after clicking 'send' on one single email, eagerly unwrapping an exorbitant triple-tier boutique dessert box, Amir giving a side-eye. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Baru balas satu emel kerja.\"\nHafiz: \"Terus order kek kopi mahal!\"\nAmir: \"Kerja lima minit ganjaran melampau?\"\nHafiz: \"Penat fikir alasan nak belanja!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Baru balas satu emel kerja."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Terus order kek kopi mahal!"
+      },
+      {
+       "who": "Amir",
+       "line": "Kerja lima minit ganjaran melampau?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Penat fikir alasan nak belanja!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. office desk, Hafiz smiling with genuine accomplishment as he views his growing monthly savings balance, having celebrated with simple healthy snacks, Amir offering a congratulatory fist bump. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Ganjaran sebenar bila simpanan penuh.\"\nHafiz: \"Bukan manjakan nafsu setiap hari.\"\nAmir: \"Disiplin tinggi bina masa depan.\"\nHafiz: \"Puas hati tengok akaun bertambah!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Ganjaran sebenar bila simpanan penuh."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Bukan manjakan nafsu setiap hari."
+      },
+      {
+       "who": "Amir",
+       "line": "Disiplin tinggi bina masa depan."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Puas hati tengok akaun bertambah!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 5: Milestone), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 5: Milestone).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Alhamdulillah genap setahun hentikan boros,\"\n\"bebas daripada jerat ganjaran palsu.\"\n\"Emas aset sejati bernilai kekal.\"\n\"Mula simpan satu gram sekarang!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Alhamdulillah genap setahun hentikan boros,"
+      },
+      {
+       "who": "Hos",
+       "line": "bebas daripada jerat ganjaran palsu."
+      },
+      {
+       "who": "Hos",
+       "line": "Emas aset sejati bernilai kekal."
+      },
+      {
+       "who": "Hos",
+       "line": "Mula simpan satu gram sekarang!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 5: Milestone)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 5: Milestone), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 5: Milestone"
+  },
+  {
+   "set": 26,
+   "title": "Beli Kasut Lari Mahal Tapi Semput Pagar Rumah",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 6: Sasaran Persona",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. front porch of apartment, Hafiz decked out in flashy neon professional marathon running gear and a high-tech smartwatch, panting heavily on the floor just 3 meters from his gate clutching his chest, Amir jogging past smoothly in plain tracksuits. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Kasut lari edisi khas maraton!\"\nHafiz: \"Lari seratus meter dah semput.\"\nAmir: \"Kasut laju tuan minta nyawa?\"\nHafiz: \"Gaya ada stamina tiada Amir!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Kasut lari edisi khas maraton!"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Lari seratus meter dah semput."
+      },
+      {
+       "who": "Amir",
+       "line": "Kasut laju tuan minta nyawa?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Gaya ada stamina tiada Amir!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. outdoor jogging park, Hafiz smiling cheerfully, jogging at a steady, enjoyable pace in basic modest sneakers, feeling energized and free from gear debt, Amir running alongside him. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Sekarang jogging santai kasut biasa.\"\nHafiz: \"Duit lebihan masuk tabung simpanan.\"\nAmir: \"Sederhana itu lebih menjamin kebahagiaan.\"\nHafiz: \"Badan sihat poket pun tebal!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Sekarang jogging santai kasut biasa."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Duit lebihan masuk tabung simpanan."
+      },
+      {
+       "who": "Amir",
+       "line": "Sederhana itu lebih menjamin kebahagiaan."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Badan sihat poket pun tebal!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 6: Sasaran Persona), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 6: Sasaran Persona).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Kalau anda suka beli gajet, dengar,\"\n\"barangan mewah susut nilai pantas.\"\n\"Tukarkan wang kepada emas fizikal,\"\n\"simpanan bernilai sepanjang usia anda!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Kalau anda suka beli gajet, dengar,"
+      },
+      {
+       "who": "Hos",
+       "line": "barangan mewah susut nilai pantas."
+      },
+      {
+       "who": "Hos",
+       "line": "Tukarkan wang kepada emas fizikal,"
+      },
+      {
+       "who": "Hos",
+       "line": "simpanan bernilai sepanjang usia anda!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 6: Sasaran Persona)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 6: Sasaran Persona), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 6: Sasaran Persona"
+  },
+  {
+   "set": 27,
+   "title": "Kena 'Pau' Makan Bila Kongsi Slip Gaji",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 1: Situasi Harian",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. lively mamak restaurant outdoor table, Hafiz looking stunned and sweaty as the waiter hands him an extremely long restaurant food bill while several friends cheer and clap, Amir looking at Hafiz with an 'I told you so' smirk. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Post gambar slip gaji tadi.\"\nHafiz: \"Kawan serbu minta belanja makan!\"\nAmir: \"Siapa suruh menunjuk dekat media?\"\nHafiz: \"Menangis bayar bil makan ramai!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Post gambar slip gaji tadi."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Kawan serbu minta belanja makan!"
+      },
+      {
+       "who": "Amir",
+       "line": "Siapa suruh menunjuk dekat media?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Menangis bayar bil makan ramai!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. mamak restaurant table, Hafiz enjoying tea and roti canai peacefully with Amir, having kept his personal salary news private and his savings safely locked, both smiling with contentment. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Sekarang aku senyap bila bergaji.\"\nHafiz: \"Terus simpan elak mata memandang.\"\nAmir: \"Kekayaan senyap lebih selamat terpelihara.\"\nHafiz: \"Tiada siapa tahu jumlah simpanan!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Sekarang aku senyap bila bergaji."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Terus simpan elak mata memandang."
+      },
+      {
+       "who": "Amir",
+       "line": "Kekayaan senyap lebih selamat terpelihara."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Tiada siapa tahu jumlah simpanan!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 1: Situasi Harian), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 1: Situasi Harian).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Pernah rasa tertekan belanja kawan?\"\n\"Kerana mahu jaga hati orang.\"\n\"Simpan kekayaan anda dalam emas,\"\n\"harta senyap selamat daripada gangguan!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Pernah rasa tertekan belanja kawan?"
+      },
+      {
+       "who": "Hos",
+       "line": "Kerana mahu jaga hati orang."
+      },
+      {
+       "who": "Hos",
+       "line": "Simpan kekayaan anda dalam emas,"
+      },
+      {
+       "who": "Hos",
+       "line": "harta senyap selamat daripada gangguan!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 1: Situasi Harian)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 1: Situasi Harian), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 1: Situasi Harian"
+  },
+  {
+   "set": 28,
+   "title": "Peti Ais Jadi Muzium Sayur Busuk",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 2: Pengakuan Silap",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. open refrigerator door, green comedic cartoon stink fumes rising as Hafiz peers in horror at a container of liquefied cucumbers and petrified vegetables, Amir shining a flashlight into the fridge like a crime scene. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Semangat beli barang dapur basah.\"\nHafiz: \"Sekali tengok sayur dah cair!\"\nAmir: \"Niat masak tapi malas dapur?\"\nHafiz: \"Peti ais penuh sampah makanan!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Semangat beli barang dapur basah."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Sekali tengok sayur dah cair!"
+      },
+      {
+       "who": "Amir",
+       "line": "Niat masak tapi malas dapur?"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Peti ais penuh sampah makanan!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. bright clean kitchen, Hafiz cheerfully chopping fresh, crisp vegetables purchased in exact portions for the day's meal, no waste, no rotten food, Amir assisting happily. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Beli bahan ikut menu harian.\"\nHafiz: \"Peti sejuk bersih makanan habis.\"\nAmir: \"Hebat, tiada lagi pembaziran wang.\"\nHafiz: \"Banyak wang dapur dapat dijimatkan!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Beli bahan ikut menu harian."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Peti sejuk bersih makanan habis."
+      },
+      {
+       "who": "Amir",
+       "line": "Hebat, tiada lagi pembaziran wang."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Banyak wang dapur dapat dijimatkan!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 2: Pengakuan Silap), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 2: Pengakuan Silap).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Saya dulu kerap membazir begini,\"\n\"beli berlebihan akhirnya terbuang begitu.\"\n\"Bila simpan emas secara konsisten,\"\n\"setiap sen dijaga penuh berkat!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Saya dulu kerap membazir begini,"
+      },
+      {
+       "who": "Hos",
+       "line": "beli berlebihan akhirnya terbuang begitu."
+      },
+      {
+       "who": "Hos",
+       "line": "Bila simpan emas secara konsisten,"
+      },
+      {
+       "who": "Hos",
+       "line": "setiap sen dijaga penuh berkat!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 2: Pengakuan Silap)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 2: Pengakuan Silap), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 2: Pengakuan Silap"
+  },
+  {
+   "set": 29,
+   "title": "Tergoda 'Add-On' Jajan Tepi Kaunter Bayaran",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 3: Jawab Bantahan",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. convenience store checkout counter, Hafiz staring in guilt at a huge pile of promotional snacks, batteries, and face creams he grabbed at the last second, while the cashier scans items, Amir standing behind pointing at the single bar of soap Hafiz came to buy. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Niat beli sabun mandi saja.\"\nHafiz: \"Tangan gatal capai jajan kaunter!\"\nAmir: \"Itu perangkap kedai susun barang.\"\nHafiz: \"Total bil melambung lima puluh!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Niat beli sabun mandi saja."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Tangan gatal capai jajan kaunter!"
+      },
+      {
+       "who": "Amir",
+       "line": "Itu perangkap kedai susun barang."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Total bil melambung lima puluh!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. convenience store counter, Hafiz smiling with self-control, paying only for the single item he needed while ignoring checkout impulse racks, Amir smiling proudly. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Beratur bayar pandang depan saja.\"\nHafiz: \"Jajan tepi kaunter aku abaikan.\"\nAmir: \"Disiplin mata kunci poket selamat.\"\nHafiz: \"Jimat wang belanja setiap hari!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Beratur bayar pandang depan saja."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Jajan tepi kaunter aku abaikan."
+      },
+      {
+       "who": "Amir",
+       "line": "Disiplin mata kunci poket selamat."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Jimat wang belanja setiap hari!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 3: Jawab Bantahan), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 3: Jawab Bantahan).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Ada kata bocor kecil tidak mengapa.\"\n\"Lama-kelamaan perahu bocor akan karam.\"\n\"Tukarkan wang bocor kepada emas,\"\n\"nilai titik peluh anda selamat!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Ada kata bocor kecil tidak mengapa."
+      },
+      {
+       "who": "Hos",
+       "line": "Lama-kelamaan perahu bocor akan karam."
+      },
+      {
+       "who": "Hos",
+       "line": "Tukarkan wang bocor kepada emas,"
+      },
+      {
+       "who": "Hos",
+       "line": "nilai titik peluh anda selamat!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 3: Jawab Bantahan)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 3: Jawab Bantahan), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 3: Jawab Bantahan"
+  },
+  {
+   "set": 30,
+   "title": "Tidur Pukul Lapan Malam Sebab Tak Nak Lapar Belanja",
+   "arc": "Arka Komedi Santai (3 Scene) | Gaya Bukaan Hos: Gaya 4: Soalan + Reveal",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Animasi 3D Pemuda Malaysia (Lawak Spontan & Dilema Kewangan)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. bedroom at 8:00 PM, Hafiz tightly bundled up like a mummy under a heavy blanket in broad daylight trying to force himself to sleep to avoid midnight food deliveries, his stomach comically grumbling, Amir turning off the light chuckling. All male characters wear decent, modest everyday clothing with full-length trousers covering their aurat properly. All background or side female characters wear proper modest hijabs and loose-fitting modest dresses covering aurat completely. High comedic expression, exaggerated humorous facial animations, relatable Malaysian context, warm cinematic studio lighting, Pixar and Illumination 3D animation feature quality aesthetic, detailed textures, 8k render, no text overlays, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation with situational comedy.\nCharacters: Hafiz (exaggerated comedic distress, self-deprecating humor) and Amir (dry-witted, grounded straight man).\nAurat Standard: All characters wear modest clothing with full-length trousers for men. All side and background female characters wear proper hijabs and loose long clothing covering aurat completely.\nStrict Rule: STRICT ZERO GOLD RULE. No gold bars, coins, or jewelry.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in.\n2.5 - 5.5s: Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark.\n5.5 - 8.0s: Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth.\n8.0 - 10.0s: Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Pukul lapan malam dah tidur.\"\nHafiz: \"Takut lapar order makanan online!\"\nAmir: \"Petua jimat paling ekstrem dunia!\"\nHafiz: \"Bangun tengah malam perut berbunyi!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay conversational banter with comedic timing. Hafiz sounds dramatic and funny; Amir sounds cool, dry, and playfully sarcastic.\nBackground Audio: Playful, lighthearted acoustic pluck with subtle comedic slide whistle or light marimba accent.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no tight revealing clothing, no exposed aurat, no english dialogue, no indonesian slang, no distorted hands, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Pukul lapan malam dah tidur."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Takut lapar order makanan online!"
+      },
+      {
+       "who": "Amir",
+       "line": "Petua jimat paling ekstrem dunia!"
+      },
+      {
+       "who": "Hafiz",
+       "line": "Bangun tengah malam perut berbunyi!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Close-up of Hafiz's comically exaggerated expression as the reality of his humorous money mistake sets in."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Cut to Amir reacting with dry humor, deadpan body language, and a sharp reality-check remark."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Hafiz groans or gestures with funny exaggerated remorse, admitting the hilarious truth."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Amir shakes his head in amusement, offering a classic brotherly smirk of solidarity."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 2,
+     "heading": "Animasi 3D Pemuda Malaysia (Kesedaran & Tindakan Berhemat)",
+     "imageLabel": "(A) Image Prompt (Google Flow — Vertical 9:16)",
+     "imagePrompt": "3D animated feature film style, vertical 9:16 ratio. cozy living room evening, Hafiz enjoying a satisfying healthy dinner and reading a book peacefully, having deleted food delivery apps and sleeping with a calm mind, Amir smiling. All male characters wear proper modest casual clothing with full-length trousers covering aurat. All background or side female characters wear full modest hijabs and long-sleeved loose dresses covering aurat completely. Warm uplifting lighting, clean detailed environment, expressive happy faces, lighthearted camaraderie, high-end 3D animated film aesthetics, 8k render, no text, no watermark, STRICT ZERO GOLD RULE (no gold items or coins).",
+     "videoLabel": "(B) Video Prompt (Gemini Omni Flash 10s — Vertical 9:16)",
+     "videoPrompt": "[Camera & Action Setup]\nModel: Gemini Omni Flash\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nStyle: 3D animated feature film character animation.\nCharacters: Hafiz (relieved, cheerfully reformed) and Amir (supportive friend).\nAurat Standard: Modest clothing for all characters; all side female characters adhere to complete aurat coverage with proper hijab and loose long clothing.\nStrict Rule: STRICT ZERO GOLD RULE. No mention or visual of gold.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile.\n2.5 - 5.5s: Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits.\n5.5 - 8.0s: Amir laughs warmly and gives an encouraging clap on Hafiz's arm.\n8.0 - 10.0s: Both friends share an authentic laugh, enjoying peace of mind and healthy savings.\n\n[Dialogue - 4 Lines, Exactly 20 to 22 Words]\nHafiz: \"Sekarang masak makan malam awal.\"\nHafiz: \"Aplikasi pesanan makanan dah padam.\"\nAmir: \"Tidur lena perut kenyang poket selamat.\"\nHafiz: \"Tiada lagi pesanan larut malam!\"\n\n[Audio & Voice Direction]\nVoice: Authentic Malaysian Malay accent. Warm, cheerful, and lighthearted with genuine camaraderie.\nBackground Audio: Upbeat, warm acoustic guitar with breezy cheerful tones.\n\n[Negative Prompt]\nNo gold bars, no coins, no jewelry, no revealing clothes, no exposed aurat, no english dialogue, no indonesian accent, no watermark.",
+     "dialog": [
+      {
+       "who": "Hafiz",
+       "line": "Sekarang masak makan malam awal."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Aplikasi pesanan makanan dah padam."
+      },
+      {
+       "who": "Amir",
+       "line": "Tidur lena perut kenyang poket selamat."
+      },
+      {
+       "who": "Hafiz",
+       "line": "Tiada lagi pesanan larut malam!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Medium shot of Hafiz enjoying his disciplined, sensible choice with a bright, self-aware smile."
+      },
+      {
+       "time": "2.5 - 5.5s",
+       "action": "Hafiz turns to Amir, joking about how much better life feels without ridiculous money habits."
+      },
+      {
+       "time": "5.5 - 8.0s",
+       "action": "Amir laughs warmly and gives an encouraging clap on Hafiz's arm."
+      },
+      {
+       "time": "8.0 - 10.0s",
+       "action": "Both friends share an authentic laugh, enjoying peace of mind and healthy savings."
+      }
+     ],
+     "panels": []
+    },
+    {
+     "scene": 3,
+     "heading": "Hos Wanita Live-Action (Berkaca Mata — Solusi Emas Public Gold)",
+     "imageLabel": "Bahagian 1: Storyboard Image Prompt (ChatGPT Image 2 — Poster 8 Panel A4)",
+     "imagePrompt": "An official A4 portrait storyboard poster (ratio 1:1.414) featuring exactly 8 numbered rectangular panels arranged in a 2x4 grid, enclosed by clean thin black borders on a pure white background.\n\nMain Character:\nA professional, poised Malaysian Malay woman in her late 20s to early 30s. She wears a neat, modest modern pastel beige tudung/hijab framed elegantly around her face. She wears stylish, modern slim-frame rounded rectangular spectacles that complement her smart, approachable professional look. Her outfit is an elegant emerald green modest blouse with matching pants. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in a neutral color matching the outfit, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nPanels Breakdown:\nPanel 1 [0-1.25s]: Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 4: Soalan + Reveal), reacting to the humorous dilemma earlier. Legend: Action: Witty opening hook / Reaction: Amused & knowing / Time: 0-1.25s / Key Object: Modern spectacles.\nPanel 2 [1.25-2.5s]: Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation. Legend: Action: Unpacking financial reality / Reaction: Thoughtful / Time: 1.25-2.5s / Key Object: Gesturing hand.\nPanel 3 [2.5-3.75s]: Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income. Legend: Action: Explaining emotional leaks / Reaction: Warm smile / Time: 2.5-3.75s / Key Object: Open hands.\nPanel 4 [3.75-5.0s]: Close-up of host's hands presenting a certified 1-gram Public Gold minted card. Legend: Action: Introducing physical gold / Reaction: Confident / Time: 3.75-5.0s / Key Object: 1g Public Gold minted card.\nPanel 5 [5.0-6.25s]: Medium shot of host smiling proudly, holding the Public Gold minted card beside her face. Legend: Action: Displaying gold card / Reaction: Trustworthy & proud / Time: 5.0-6.25s / Key Object: Public Gold card.\nPanel 6 [6.25-7.5s]: Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress. Legend: Action: Explaining gold asset power / Reaction: Authoritative / Time: 6.25-7.5s / Key Object: Gold minted card.\nPanel 7 [7.5-8.75s]: Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar. Legend: Action: Demonstrating accessibility / Reaction: Welcoming / Time: 7.5-8.75s / Key Object: Smartphone app & gold bar.\nPanel 8 [8.75-10.0s]: Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action. Legend: Action: Final call to action / Reaction: Warm, inspiring / Time: 8.75-10.0s / Key Object: 1g Public Gold card.\n\nMandatory Requirements:\n1. Her stylish modern spectacles and hijab style remain 100% consistent across all 8 panels.\n2. Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n3. All side and background characters (if present) strictly cover their aurat with proper hijabs for women and modest clothing for men.\n4. Crisp studio lighting, photorealistic corporate live-action video still quality, professional clean finish.\n5. Do not include a piggy bank anywhere in the storyboard.",
+     "videoLabel": "Bahagian 2: Video Prompt (Live-Action 10 Saat Lip-Sync — Vertical 9:16)",
+     "videoPrompt": "[Camera & Talent Setup]\nModel: Live-Action Video Generation / High-Fidelity\nDuration: 10 seconds\nAspect Ratio: Vertical 9:16\nTalent: Professional Malaysian Malay woman in late 20s, wearing neat pastel beige hijab, stylish modern slim-frame spectacles, and an emerald green modest blouse with full-length sleeves and inner handsocks fully covering wrists.\nSetting: Bright, clean modern home studio with soft warm wood accents and minimalist indoor plants.\nAurat Standard: Perfect aurat coverage with inner handsocks peeking at wrists throughout the entire video. All background personnel wear modest clothing and proper hijabs.\n\n[Timeline Breakdown]\n0.0 - 2.5s: Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 4: Soalan + Reveal).\n2.5 - 5.0s: She raises a sealed 1-gram Public Gold minted card into frame with graceful poise.\n5.0 - 7.5s: She gestures toward the physical gold card, speaking with conviction and clarity.\n7.5 - 10.0s: She holds the card steady near chest level, smiling warmly with a welcoming call to action.\n\n[Dialogue - 4 Lines, Exactly 18 to 22 Words]\n\"Pernah berlapar demi jimat duit?\"\n\"Masalahnya bukan cara kita makan,\"\n\"tetapi ketiadaan disiplin simpanan kukuh.\"\n\"Bina benteng kewangan dengan emas!\"\n\n[Audio & Voice Direction]\nVoice: Polished, articulate standard Malaysian Malay (Bahasa Melayu piawai). Professional, friendly, confident and encouraging pace.\nBackground Music: Soft, inspiring corporate acoustic melody at subtle low volume.\n\n[Negative Prompt]\nNo exposed wrists, no bare forearms, no missing spectacles, no piggy bank, no cartoon filter, no indonesian slang, no english words, no distorted fingers, no flickering lighting, no tight revealing clothing.",
+     "dialog": [
+      {
+       "who": "Hos",
+       "line": "Pernah berlapar demi jimat duit?"
+      },
+      {
+       "who": "Hos",
+       "line": "Masalahnya bukan cara kita makan,"
+      },
+      {
+       "who": "Hos",
+       "line": "tetapi ketiadaan disiplin simpanan kukuh."
+      },
+      {
+       "who": "Hos",
+       "line": "Bina benteng kewangan dengan emas!"
+      }
+     ],
+     "timeline": [
+      {
+       "time": "0.0 - 2.5s",
+       "action": "Host looks into camera lens through her elegant spectacles with a knowing, warm smile (Gaya 4: Soalan + Reveal)."
+      },
+      {
+       "time": "2.5 - 5.0s",
+       "action": "She raises a sealed 1-gram Public Gold minted card into frame with graceful poise."
+      },
+      {
+       "time": "5.0 - 7.5s",
+       "action": "She gestures toward the physical gold card, speaking with conviction and clarity."
+      },
+      {
+       "time": "7.5 - 10.0s",
+       "action": "She holds the card steady near chest level, smiling warmly with a welcoming call to action."
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0-1.25s",
+       "action": "Host looking directly at camera with an amused, knowing smile through her stylish spectacles (Gaya 4: Soalan + Reveal), reacting to the humorous dilemma earlier."
+      },
+      {
+       "n": 2,
+       "time": "1.25-2.5s",
+       "action": "Slight angle shift, host gestures with one hand, delivering the serious financial takeaway behind the humorous situation."
+      },
+      {
+       "n": 3,
+       "time": "2.5-3.75s",
+       "action": "Host opens both hands in a welcoming gesture, explaining how small leaks and emotional excuses drain hard-earned income."
+      },
+      {
+       "n": 4,
+       "time": "3.75-5.0s",
+       "action": "Close-up of host's hands presenting a certified 1-gram Public Gold minted card."
+      },
+      {
+       "n": 5,
+       "time": "5.0-6.25s",
+       "action": "Medium shot of host smiling proudly, holding the Public Gold minted card beside her face."
+      },
+      {
+       "n": 6,
+       "time": "6.25-7.5s",
+       "action": "Host points gently with index finger toward the gold card, explaining the power of gold as an inflation-proof wealth fortress."
+      },
+      {
+       "n": 7,
+       "time": "7.5-8.75s",
+       "action": "Host holds up a smartphone displaying the official Public Gold app account dashboard alongside the physical gold bar."
+      },
+      {
+       "n": 8,
+       "time": "8.75-10.0s",
+       "action": "Host holds the gold card neatly at chest level, smiling warmly with a welcoming call to action."
+      }
+     ]
+    }
+   ],
+   "gaya": "Gaya 4: Soalan + Reveal"
+  }
+ ]
+}
