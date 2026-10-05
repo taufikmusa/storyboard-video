@@ -30,10 +30,10 @@ Format docx yang dijangka: `Heading 1` = `Set NN: Tajuk`, `Heading 2` = `Scene N
 
 ## Tab B-Roll
 
-Docx B-Roll guna format `Klip N : Nama` (setiap klip = 1 scene, 8 saat, tanpa dialog). Id `b00-broll` supaya tab ni sentiasa paling depan.
+Docx B-Roll guna format `Klip N : Nama` (setiap klip = 1 scene, 8 saat, tanpa dialog). Semua docx `B_Roll_*` digabung dalam satu tab: nombor klip bersambung (fail asal dulu, lepas tu `Batch_N`, kemudian `Live_NN`) dan setiap card ada badge kumpulan. Bila tambah docx baru, jalankan semula dengan semua fail. Id `b00-broll` supaya tab ni sentiasa paling depan.
 
 ```bash
-python3 tools/broll_docx_to_json.py sources/B_Roll_Koleksi_9_Skrip_Viral_Short.docx --id b00-broll --label "B-Roll"
+python3 tools/broll_docx_to_json.py sources/B_Roll_*.docx --id b00-broll --label "B-Roll"
 ```
 
 ## Test local
