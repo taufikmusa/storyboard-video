@@ -1,0 +1,631 @@
+{
+ "id": "b00-broll",
+ "label": "B-Roll",
+ "kind": "broll",
+ "title": "B-ROLL: KOLEKSI 9 SKRIP VIRAL SHORT",
+ "source": "B_Roll_Koleksi_9_Skrip_Viral_Short.docx",
+ "tags": [
+  "b-roll",
+  "8-saat",
+  "tanpa-dialog"
+ ],
+ "guide": [
+  {
+   "h": "Panduan B-Roll"
+  },
+  {
+   "p": "Pustaka klip 8 saat, 9:16 menegak, satu shot berterusan tanpa dialog. Setiap klip = 1 scene: jana Storyboard Image (lampir gambar rujukan watak), kemudian Video Prompt."
+  },
+  {
+   "h": "Peringatan Penting Untuk Taufik"
+  },
+  {
+   "items": [
+    "Gambar Rujukan Watak: Semasa menjana Storyboard Image di image model, pastikan anda lampirkan gambar rujukan watak (watak-rujukan.jpg, wanita bertudung dusty-pink memegang kad emas) bersama-sama prompt.",
+    "Penamaan & Simpanan Fail Video: Selepas menjana klip video 8 saat di video model (Kling / Runway / Luma), namakan fail video mengikut Nama Fail (contoh: Buku-azam-layu.mp4) dan muat naik ke folder repo inbox/ supaya dimasukkan ke pustaka dan katalog."
+   ]
+  }
+ ],
+ "sets": [
+  {
+   "set": 1,
+   "title": "Buku-azam-layu",
+   "arc": "Padanan Skrip: Skrip 1: Misteri Azam Kewangan Layu Bulan Mac | Jenis shot: Tangan & objek (muka di luar frame)   |   Guna untuk ayat: \"azam kewangan terkubur\", \"layu menjelang Mac\", \"azam tinggal azam\"",
+   "gaya": "Tangan & objek (muka di luar frame)",
+   "duration": 8,
+   "skrip": "Skrip 1: Misteri Azam Kewangan Layu Bulan Mac",
+   "ayat": "\"azam kewangan terkubur\", \"layu menjelang Mac\", \"azam tinggal azam\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 1: Misteri Azam Kewangan Layu Bulan Mac",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Buku-azam-layu\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed. In this clip only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame; her face is completely out of frame.\n\nKEY OBJECTS: A hardcover personal goal planner notebook open on a wooden table, a sleek dark ballpoint pen lying idle across the page, a dried pressed autumn leaf used as a bookmark.\n\nLOCATION & LIGHT: Home study table, quiet afternoon daylight from the side, subdued warm amber and wood tones, shallow depth of field.\n\nSTORYBOARD (one continuous shot, camera on tripod, gentle slow push-in):\nFrame 1 - 0.0s - START: Close-up on the desk. The journal lies open with handwritten notes on the January page, pen resting beside it. Hands enter and rest on the page. Emotion: contemplative. Key Object: Open journal.\nFrame 2 - 2.5s - ACTION: Her right hand slowly turns the journal pages past February to the page labeled March, which is completely blank and untouched. Emotion: melancholic. Key Object: Blank March planner page.\nFrame 3 - 5.0s - PEAK: Her fingers lightly touch the blank ruled lines of the March page, then gently pick up the pen without writing anything. Emotion: reflective. Key Object: Idle pen over blank page.\nFrame 4 - 7.5s - END: She places the pen back down slowly on the empty page and leaves her hand resting beside the journal, still and quiet. Emotion: resolute. Key Object: Closed pen on journal.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame, and her face stays fully out of frame for the whole clip.\n- The hardcover journal, dark pen, pressed leaf bookmark, striped sleeves and white handsocks stay consistent throughout.\n\nSCENE: Home study desk, quiet afternoon lighting from the side, warm neutral grading, shallow depth of field.\n\nACTION: 0-0.5s hands resting on journal. 0.5-3.0s fingers turn pages to the blank March section. 3.0-5.5s fingers trace the empty page and pick up the pen thoughtfully. 5.5-8.0s pen is placed down, hands rest still on the desk.\n\nCAMERA: Tripod, slow imperceptible push-in, stable.\n\nAUDIO: Natural ambient sound only (soft paper page turn, gentle pen tap on wood, faint room tone). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "hands resting on journal"
+      },
+      {
+       "time": "0.5-3.0s",
+       "action": "fingers turn pages to the blank March section"
+      },
+      {
+       "time": "3.0-5.5s",
+       "action": "fingers trace the empty page and pick up the pen thoughtfully"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "pen is placed down, hands rest still on the desk"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Close-up on the desk. The journal lies open with handwritten notes on the January page, pen resting beside it. Hands enter and rest on the page. Emotion: contemplative. Key Object: Open journal."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Her right hand slowly turns the journal pages past February to the page labeled March, which is completely blank and untouched. Emotion: melancholic. Key Object: Blank March planner page."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: Her fingers lightly touch the blank ruled lines of the March page, then gently pick up the pen without writing anything. Emotion: reflective. Key Object: Idle pen over blank page."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: She places the pen back down slowly on the empty page and leaves her hand resting beside the journal, still and quiet. Emotion: resolute. Key Object: Closed pen on journal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 2,
+   "title": "Ragu-mesej-scam",
+   "arc": "Padanan Skrip: Skrip 2: Taktik Licik Scammer Dividen Emas | Jenis shot: Watak medium (muka nampak penuh)   |   Guna untuk ayat: \"janji manis dividen\", \"taktik licik scammer\", \"lari laju-laju\"",
+   "gaya": "Watak medium (muka nampak penuh)",
+   "duration": 8,
+   "skrip": "Skrip 2: Taktik Licik Scammer Dividen Emas",
+   "ayat": "\"janji manis dividen\", \"taktik licik scammer\", \"lari laju-laju\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 2: Taktik Licik Scammer Dividen Emas",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Ragu-mesej-scam\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nKEY OBJECTS: A modern smartphone held in both hands, a clean dining room table, a simple ceramic cup.\n\nLOCATION & LIGHT: Bright dining area in the morning, diffused natural side illumination, neutral warm tones, soft bokeh in background.\n\nSTORYBOARD (one continuous shot, camera on tripod, eye-level medium portrait):\nFrame 1 - 0.0s - START: Medium shot from waist up with ample headroom. She sits holding the phone at chest level, reading a message on screen with a neutral expression. Mouth closed. Emotion: neutral. Key Object: Smartphone in hand.\nFrame 2 - 2.5s - ACTION: Her eyebrows knit together slightly and her head tilts in skepticism as she reads the suspicious text. Her mouth remains firmly closed. Emotion: suspicious. Key Object: Smartphone screen.\nFrame 3 - 5.0s - PEAK: She slowly shakes her head from side to side in clear disbelief and caution, recognizing the deception. Emotion: skeptical and cautious. Key Object: Held smartphone.\nFrame 4 - 7.5s - END: She places the phone face down firmly on the table surface, resting her hands flat beside it, looking ahead with resolved caution. Emotion: guarded and composed. Key Object: Phone face down on table.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: her whole face and hijab stay in frame with headroom, or her face stays fully out of frame for the whole clip.\n- The woman's eyeglasses, mole, pink hijab, striped shirt, white handsocks, smartphone, and table setting remain identical.\n\nSCENE: Dining space, bright morning light from the side, clean neutral environment, shallow depth of field.\n\nACTION: 0-0.5s reading phone calmly. 0.5-2.5s eyebrows knit with skepticism. 2.5-5.5s she shakes her head gently in disbelief. 5.5-8.0s she sets phone face down on table and rests hands, perfectly composed.\n\nCAMERA: Tripod, eye-level medium shot, stationary.\n\nAUDIO: Natural ambient sound only (subtle phone tap on wood, faint fabric rustle, quiet room tone). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "reading phone calmly"
+      },
+      {
+       "time": "0.5-2.5s",
+       "action": "eyebrows knit with skepticism"
+      },
+      {
+       "time": "2.5-5.5s",
+       "action": "she shakes her head gently in disbelief"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "she sets phone face down on table and rests hands, perfectly composed"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Medium shot from waist up with ample headroom. She sits holding the phone at chest level, reading a message on screen with a neutral expression. Mouth closed. Emotion: neutral. Key Object: Smartphone in hand."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Her eyebrows knit together slightly and her head tilts in skepticism as she reads the suspicious text. Her mouth remains firmly closed. Emotion: suspicious. Key Object: Smartphone screen."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: She slowly shakes her head from side to side in clear disbelief and caution, recognizing the deception. Emotion: skeptical and cautious. Key Object: Held smartphone."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: She places the phone face down firmly on the table surface, resting her hands flat beside it, looking ahead with resolved caution. Emotion: guarded and composed. Key Object: Phone face down on table."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 3,
+   "title": "Kotak-simpanan-kunci",
+   "arc": "Padanan Skrip: Skrip 3: Rahsia Di Sebalik Memegang Emas Fizikal | Jenis shot: Tangan & objek (muka di luar frame)   |   Guna untuk ayat: \"bukan sekadar angka skrin\", \"aset fizikal selamat\", \"ketenangan jiwa pemilikan\"",
+   "gaya": "Tangan & objek (muka di luar frame)",
+   "duration": 8,
+   "skrip": "Skrip 3: Rahsia Di Sebalik Memegang Emas Fizikal",
+   "ayat": "\"bukan sekadar angka skrin\", \"aset fizikal selamat\", \"ketenangan jiwa pemilikan\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 3: Rahsia Di Sebalik Memegang Emas Fizikal",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Kotak-simpanan-kunci\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed. In this clip only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame; her face is completely out of frame.\n\nKEY OBJECTS: A compact dark wooden lockbox with a plush dark navy velvet interior lining, small solid brass key, smooth mahogany table surface.\n\nLOCATION & LIGHT: Warm private study room, focused directional light from above and side, rich deep shadows, cinematic atmosphere.\n\nSTORYBOARD (one continuous shot, camera on tripod, tight 45-degree angle close-up):\nFrame 1 - 0.0s - START: Close-up on hands resting on either side of the closed dark wooden lockbox. A small brass key is inserted in the front keyhole. Emotion: calm. Key Object: Closed wooden lockbox with key.\nFrame 2 - 2.5s - ACTION: Her right thumb and index finger turn the brass key with a deliberate half-rotation. Emotion: purposeful. Key Object: Brass key turning in lock.\nFrame 3 - 5.0s - PEAK: Both hands lift the hinged wooden lid open smoothly, revealing the pristine dark velvet cushioned interior inside. Emotion: deeply satisfied. Key Object: Open lockbox showing velvet interior.\nFrame 4 - 7.5s - END: Her right fingertips lightly touch the soft velvet base of the box, feeling the reassuring physical texture, hands holding still. Emotion: secure and peaceful. Key Object: Hand touching velvet interior.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame, and her face stays fully out of frame for the whole clip.\n- The wooden lockbox, brass key, navy velvet lining, striped sleeves and white handsock cuffs stay completely identical.\n\nSCENE: Study desk, warm focused directional light, rich mahogany texture, shallow depth of field.\n\nACTION: 0-0.5s hands resting on box. 0.5-2.5s fingers turn key. 2.5-5.5s hands lift the lid open smoothly to display velvet interior. 5.5-8.0s fingers graze velvet lining, holding still in quiet satisfaction.\n\nCAMERA: Tripod, slow subtle push-in towards the open box.\n\nAUDIO: Natural ambient sound only (crisp metallic lock mechanism click, soft wooden hinge creak, gentle velvet touch). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "hands resting on box"
+      },
+      {
+       "time": "0.5-2.5s",
+       "action": "fingers turn key"
+      },
+      {
+       "time": "2.5-5.5s",
+       "action": "hands lift the lid open smoothly to display velvet interior"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "fingers graze velvet lining, holding still in quiet satisfaction"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Close-up on hands resting on either side of the closed dark wooden lockbox. A small brass key is inserted in the front keyhole. Emotion: calm. Key Object: Closed wooden lockbox with key."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Her right thumb and index finger turn the brass key with a deliberate half-rotation. Emotion: purposeful. Key Object: Brass key turning in lock."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: Both hands lift the hinged wooden lid open smoothly, revealing the pristine dark velvet cushioned interior inside. Emotion: deeply satisfied. Key Object: Open lockbox showing velvet interior."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: Her right fingertips lightly touch the soft velvet base of the box, feeling the reassuring physical texture, hands holding still. Emotion: secure and peaceful. Key Object: Hand touching velvet interior."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 4,
+   "title": "Kiub-ais-cair",
+   "arc": "Padanan Skrip: Skrip 4: Fenomena Kiub Ais & Lembah Kekecewaan Emas | Jenis shot: Makro / konsep (tanpa watak)   |   Guna untuk ayat: \"fenomena kiub ais\", \"lembah kekecewaan\", \"kesan potensi terpendam\"",
+   "gaya": "Makro / konsep (tanpa watak)",
+   "duration": 8,
+   "skrip": "Skrip 4: Fenomena Kiub Ais & Lembah Kekecewaan Emas",
+   "ayat": "\"fenomena kiub ais\", \"lembah kekecewaan\", \"kesan potensi terpendam\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 4: Fenomena Kiub Ais & Lembah Kekecewaan Emas",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Kiub-ais-cair\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: No person appears in this clip.\n\nKEY OBJECTS: A single pristine crystalline square ice cube, a minimalist matte charcoal ceramic saucer, small glistening water droplets forming at the base.\n\nLOCATION & LIGHT: Clean studio macro setting, crisp rim lighting from behind, cool neutral tones with sparkling water highlights, extreme shallow depth of field.\n\nSTORYBOARD (one continuous shot, macro tripod shot, zero camera shake):\nFrame 1 - 0.0s - START: Extreme macro close-up of a solid clear ice cube resting in the center of the dark saucer. Edges are sharp and frozen. Key Object: Solid clear ice cube.\nFrame 2 - 2.5s - ACTION: Subtle condensation beads form on the ice facets; tiny glistening moisture develops along the lower corners. Key Object: Condensation on ice.\nFrame 3 - 5.0s - PEAK: A thin smooth rivulet of water melts rapidly from the top edge, flowing down and pooling cleanly on the dark saucer surface. Key Object: Melting ice cube with water pool.\nFrame 4 - 7.5s - END: The ice cube softens in shape as the clear puddle expands smoothly around its base, glistening under the light. Key Object: Melted puddle around ice cube.\n\nREQUIREMENTS:\n- No person appears in this clip.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\nNo person appears in this clip.\n- The ice cube, charcoal saucer, and water droplets maintain realistic physical continuity and position throughout.\n\nSCENE: Macro dark ceramic setting, clean edge lighting, sparkling moisture highlights, extreme shallow depth of field.\n\nACTION: 0-0.5s solid ice cube still. 0.5-3.0s condensation beads form and merge. 3.0-6.0s visible clear water rivulet cascades down and pools on dark ceramic. 6.0-8.0s ice continues melting smoothly into an expanding puddle.\n\nCAMERA: Macro lens on tripod, static framing, crisp focus on the melting edge.\n\nAUDIO: Natural ambient sound only (subtle water droplet impact, microscopic ice fissure ping, quiet ambient room tone). No speech, no voiceover, no music.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "solid ice cube still"
+      },
+      {
+       "time": "0.5-3.0s",
+       "action": "condensation beads form and merge"
+      },
+      {
+       "time": "3.0-6.0s",
+       "action": "visible clear water rivulet cascades down and pools on dark ceramic"
+      },
+      {
+       "time": "6.0-8.0s",
+       "action": "ice continues melting smoothly into an expanding puddle"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Extreme macro close-up of a solid clear ice cube resting in the center of the dark saucer. Edges are sharp and frozen. Key Object: Solid clear ice cube."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Subtle condensation beads form on the ice facets; tiny glistening moisture develops along the lower corners. Key Object: Condensation on ice."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: A thin smooth rivulet of water melts rapidly from the top edge, flowing down and pooling cleanly on the dark saucer surface. Key Object: Melting ice cube with water pool."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: The ice cube softens in shape as the clear puddle expands smoothly around its base, glistening under the light. Key Object: Melted puddle around ice cube."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 5,
+   "title": "Label-harga-naik",
+   "arc": "Padanan Skrip: Skrip 5: Formula Matematik 1% Compounding vs Duit Kertas | Jenis shot: Tangan & objek (muka di luar frame)   |   Guna untuk ayat: \"kuasa beli merosot\", \"inflasi senyap merompak\", \"duit semakin mengecut\"",
+   "gaya": "Tangan & objek (muka di luar frame)",
+   "duration": 8,
+   "skrip": "Skrip 5: Formula Matematik 1% Compounding vs Duit Kertas",
+   "ayat": "\"kuasa beli merosot\", \"inflasi senyap merompak\", \"duit semakin mengecut\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 5: Formula Matematik 1% Compounding vs Duit Kertas",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Label-harga-naik\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed. In this clip only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame; her face is completely out of frame.\n\nKEY OBJECTS: A retail display shelf edge with blurred grocery goods in background, a roll of plain yellow price tags, generic unreadable price sticker.\n\nLOCATION & LIGHT: Retail store aisle, soft overhead fluorescent diffused light, realistic everyday warm commercial grading.\n\nSTORYBOARD (one continuous shot, camera on tripod, tight side-angle close-up):\nFrame 1 - 0.0s - START: Close shot of a shelf edge tag strip. An old faded price label is slotted on the shelf. Her hands enter holding a fresh yellow label. Emotion: routine. Key Object: Shelf price channel.\nFrame 2 - 2.5s - ACTION: Her right hand peels the backing off the fresh yellow sticker, holding it above the old label. Emotion: attentive. Key Object: Peeling yellow label sticker.\nFrame 3 - 5.0s - PEAK: Her fingers press the new higher price sticker directly over the old one, completely covering the previous figure. Emotion: deliberate. Key Object: New label placed over old label.\nFrame 4 - 7.5s - END: Her thumb rubs across the label to seal it flat onto the shelf rail, then withdraws her hands out of frame. Emotion: concluded. Key Object: Firmly applied new price tag.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame, and her face stays fully out of frame for the whole clip.\n- The shelf rail, yellow label, grocery background, striped sleeves and white handsocks stay consistent throughout.\n\nSCENE: Store shelf display, soft commercial aisle lighting, realistic depth of field.\n\nACTION: 0-0.5s hands approach shelf with label. 0.5-2.5s fingers peel sticker backing. 2.5-5.5s sticker is placed firmly on top of old tag. 5.5-8.0s thumb smooths sticker down, hands withdraw cleanly.\n\nCAMERA: Tripod, tight close-up, steady.\n\nAUDIO: Natural ambient sound only (sticker peeling sound, thumb pressing on plastic shelf rail, distant ambient grocery room tone). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "hands approach shelf with label"
+      },
+      {
+       "time": "0.5-2.5s",
+       "action": "fingers peel sticker backing"
+      },
+      {
+       "time": "2.5-5.5s",
+       "action": "sticker is placed firmly on top of old tag"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "thumb smooths sticker down, hands withdraw cleanly"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Close shot of a shelf edge tag strip. An old faded price label is slotted on the shelf. Her hands enter holding a fresh yellow label. Emotion: routine. Key Object: Shelf price channel."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Her right hand peels the backing off the fresh yellow sticker, holding it above the old label. Emotion: attentive. Key Object: Peeling yellow label sticker."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: Her fingers press the new higher price sticker directly over the old one, completely covering the previous figure. Emotion: deliberate. Key Object: New label placed over old label."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: Her thumb rubs across the label to seal it flat onto the shelf rail, then withdraws her hands out of frame. Emotion: concluded. Key Object: Firmly applied new price tag."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 6,
+   "title": "Kalkulator-langkah-kecil",
+   "arc": "Padanan Skrip: Skrip 7: Bila Waktu Terbaik Beli Emas? (Peraturan 2 Minit) | Jenis shot: Overhead / flat-lay (muka di luar frame)   |   Guna untuk ayat: \"peraturan dua minit\", \"mulakan langkah kecil\", \"standardkan tindakan\"",
+   "gaya": "Overhead / flat-lay (muka di luar frame)",
+   "duration": 8,
+   "skrip": "Skrip 7: Bila Waktu Terbaik Beli Emas? (Peraturan 2 Minit)",
+   "ayat": "\"peraturan dua minit\", \"mulakan langkah kecil\", \"standardkan tindakan\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 7: Bila Waktu Terbaik Beli Emas? (Peraturan 2 Minit)",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Kalkulator-langkah-kecil\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed. In this clip only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame; her face is completely out of frame.\n\nKEY OBJECTS: A sleek minimalist desk calculator with round matte keys, a small pocket notebook with a neat ruled budget table, a fine rollerball pen, light beech wood desk.\n\nLOCATION & LIGHT: Directly top-down flat-lay, bright airy daytime illumination, soft diffused shadows, clean Scandinavian aesthetic.\n\nSTORYBOARD (one continuous shot, fixed vertical overhead flat-lay camera):\nFrame 1 - 0.0s - START: Overhead flat-lay. Calculator, open small notebook and pen sit neatly aligned on wood desk. Hands resting at bottom edge. Emotion: calm. Key Object: Calculator and notebook.\nFrame 2 - 2.5s - ACTION: Her right index finger reaches out and taps three keys in sequence on the calculator with swift confidence. Emotion: focused. Key Object: Finger tapping calculator keys.\nFrame 3 - 5.0s - PEAK: She picks up the pen and jots a quick, neat single checkmark beside a budget line in the notebook. Emotion: satisfied. Key Object: Pen marking checkmark in notebook.\nFrame 4 - 7.5s - END: She places the pen down horizontally across the notebook margin, hands resting flat beside the setup in neat order. Emotion: organized. Key Object: Aligned desk setup.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame, and her face stays fully out of frame for the whole clip.\n- The calculator, notebook layout, rollerball pen, wood desk grain, striped sleeves and white handsocks stay identical.\n\nSCENE: Clean workspace desk, bright natural overhead daylight, minimalist composition.\n\nACTION: 0-0.5s still flat-lay. 0.5-2.5s finger types three clicks on calculator keys. 2.5-5.5s hand picks up pen and draws a neat checkmark in notebook. 5.5-8.0s pen laid down, hands rest still.\n\nCAMERA: Fixed overhead tripod, perfectly vertical 9:16 angle, locked.\n\nAUDIO: Natural ambient sound only (tactile calculator key clicks, light pen stroke on paper, gentle desk tap). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "still flat-lay"
+      },
+      {
+       "time": "0.5-2.5s",
+       "action": "finger types three clicks on calculator keys"
+      },
+      {
+       "time": "2.5-5.5s",
+       "action": "hand picks up pen and draws a neat checkmark in notebook"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "pen laid down, hands rest still"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Overhead flat-lay. Calculator, open small notebook and pen sit neatly aligned on wood desk. Hands resting at bottom edge. Emotion: calm. Key Object: Calculator and notebook."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Her right index finger reaches out and taps three keys in sequence on the calculator with swift confidence. Emotion: focused. Key Object: Finger tapping calculator keys."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: She picks up the pen and jots a quick, neat single checkmark beside a budget line in the notebook. Emotion: satisfied. Key Object: Pen marking checkmark in notebook."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: She places the pen down horizontally across the notebook margin, hands resting flat beside the setup in neat order. Emotion: organized. Key Object: Aligned desk setup."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 7,
+   "title": "Imbas-qr-belanja",
+   "arc": "Padanan Skrip: Skrip 6: Penyakit Gaji Bocor & Perangkap 'Self-Reward' | Jenis shot: Tangan & objek (muka di luar frame)   |   Guna untuk ayat: \"tiada geseran berbelanja\", \"imbas sana imbas sini\", \"gaji baru masuk tiga hari bocor\"",
+   "gaya": "Tangan & objek (muka di luar frame)",
+   "duration": 8,
+   "skrip": "Skrip 6: Penyakit Gaji Bocor & Perangkap 'Self-Reward'",
+   "ayat": "\"tiada geseran berbelanja\", \"imbas sana imbas sini\", \"gaji baru masuk tiga hari bocor\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 6: Penyakit Gaji Bocor & Perangkap 'Self-Reward'",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Imbas-qr-belanja\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed. In this clip only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame; her face is completely out of frame.\n\nKEY OBJECTS: A smartphone held in right hand, a counter acrylic stand with a generic mock QR code placard, an iced takeaway coffee cup on the wooden counter.\n\nLOCATION & LIGHT: Modern cafe counter, soft warm ambient lighting from overhead pendants, cozy bokeh, shallow depth of field.\n\nSTORYBOARD (one continuous shot, camera on tripod, 30-degree counter close-up):\nFrame 1 - 0.0s - START: Close-up on cafe counter with the coffee cup and QR stand. Her hand holding the phone enters from bottom edge. Emotion: neutral. Key Object: Smartphone and QR acrylic stand.\nFrame 2 - 2.5s - ACTION: She lifts the phone up and aims the camera screen directly at the QR code placard on the counter. Emotion: casual. Key Object: Phone camera aiming at QR code.\nFrame 3 - 5.0s - PEAK: A generic green scanning outline flashes briefly on the phone screen indicating successful instant scan. Emotion: impulsive. Key Object: Screen scan confirmation graphic.\nFrame 4 - 7.5s - END: Her other hand reaches forward and takes the takeaway iced coffee cup by its sleeve, while lowering the phone. Emotion: careless. Key Object: Hand lifting takeaway coffee cup.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame, and her face stays fully out of frame for the whole clip.\n- The smartphone, generic QR stand, iced coffee cup, wooden counter, striped sleeves and white handsocks stay consistent throughout.\n\nSCENE: Cafe checkout counter, warm cozy cafe ambient lighting, shallow depth of field.\n\nACTION: 0-0.5s hands bring phone into frame. 0.5-3.0s phone aligns with QR stand. 3.0-5.5s screen flashes subtle green scan confirmation. 5.5-8.0s other hand grabs the iced coffee cup, phone lowers slightly, still.\n\nCAMERA: Tripod, stationary close-up, steady.\n\nAUDIO: Natural ambient sound only (subtle digital scan chime, ice clinking in plastic cup, faint cafe background room tone). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "hands bring phone into frame"
+      },
+      {
+       "time": "0.5-3.0s",
+       "action": "phone aligns with QR stand"
+      },
+      {
+       "time": "3.0-5.5s",
+       "action": "screen flashes subtle green scan confirmation"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "other hand grabs the iced coffee cup, phone lowers slightly, still"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Close-up on cafe counter with the coffee cup and QR stand. Her hand holding the phone enters from bottom edge. Emotion: neutral. Key Object: Smartphone and QR acrylic stand."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: She lifts the phone up and aims the camera screen directly at the QR code placard on the counter. Emotion: casual. Key Object: Phone camera aiming at QR code."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: A generic green scanning outline flashes briefly on the phone screen indicating successful instant scan. Emotion: impulsive. Key Object: Screen scan confirmation graphic."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: Her other hand reaches forward and takes the takeaway iced coffee cup by its sleeve, while lowering the phone. Emotion: careless. Key Object: Hand lifting takeaway coffee cup."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 8,
+   "title": "Bincang-matlamat-keluarga",
+   "arc": "Padanan Skrip: Skrip 8: Tiga Waktu Halal Jual Emas | Jenis shot: Watak medium (muka nampak penuh)   |   Guna untuk ayat: \"kubu pertahanan keluarga\", \"jangan jual terburu-buru\", \"pelihara maruah keluarga\"",
+   "gaya": "Watak medium (muka nampak penuh)",
+   "duration": 8,
+   "skrip": "Skrip 8: Tiga Waktu Halal Jual Emas",
+   "ayat": "\"kubu pertahanan keluarga\", \"jangan jual terburu-buru\", \"pelihara maruah keluarga\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 8: Tiga Waktu Halal Jual Emas",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Bincang-matlamat-keluarga\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nKEY OBJECTS: A tidy dining table with neatly stacked household budget worksheets, a small ceramic mug, a wooden pencil resting on paper.\n\nLOCATION & LIGHT: Warm home dining room, evening warm domestic ambient light, cozy and safe atmosphere, soft background bokeh.\n\nSTORYBOARD (one continuous shot, camera on tripod, eye-level medium framing):\nFrame 1 - 0.0s - START: Medium shot from waist up with generous headroom. She is seated at the table looking thoughtfully at family goal worksheets, hands resting calmly on the table. Mouth closed. Emotion: reflective. Key Object: Household planning sheets.\nFrame 2 - 2.5s - ACTION: She lifts one planning sheet with both hands, reviewing it with deep care and protective responsibility. Emotion: protective and determined. Key Object: Planning sheet in hands.\nFrame 3 - 5.0s - PEAK: She gently places the sheet back on the stack and clasps her hands together over the papers, a gentle serene smile appearing on her face. Closed mouth. Emotion: confident and dignified. Key Object: Clasped hands over papers.\nFrame 4 - 7.5s - END: She looks gently forward toward the room with quiet pride and peace of mind, secure in her family shield. Emotion: peaceful and dignified. Key Object: Cluttered-free clean dining table.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: her whole face and hijab stay in frame with headroom, or her face stays fully out of frame for the whole clip.\n- The woman's eyeglasses, mole, pink hijab, striped top, white handsocks, papers, mug, and dining table stay identical.\n\nSCENE: Home dining area, warm evening domestic lighting, calm safe feeling, shallow depth of field.\n\nACTION: 0-0.5s seated calmly. 0.5-3.0s lifts worksheet with both hands to review. 3.0-5.5s places paper down and clasps hands with serene smile. 5.5-8.0s gazes forward with calm dignity, hands resting steady.\n\nCAMERA: Tripod, slow subtle push-in towards her serene expression.\n\nAUDIO: Natural ambient sound only (gentle paper rustle, soft room tone, quiet ambient evening warmth). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "seated calmly"
+      },
+      {
+       "time": "0.5-3.0s",
+       "action": "lifts worksheet with both hands to review"
+      },
+      {
+       "time": "3.0-5.5s",
+       "action": "places paper down and clasps hands with serene smile"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "gazes forward with calm dignity, hands resting steady"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Medium shot from waist up with generous headroom. She is seated at the table looking thoughtfully at family goal worksheets, hands resting calmly on the table. Mouth closed. Emotion: reflective. Key Object: Household planning sheets."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: She lifts one planning sheet with both hands, reviewing it with deep care and protective responsibility. Emotion: protective and determined. Key Object: Planning sheet in hands."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: She gently places the sheet back on the stack and clasps her hands together over the papers, a gentle serene smile appearing on her face. Closed mouth. Emotion: confident and dignified. Key Object: Clasped hands over papers."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: She looks gently forward toward the room with quiet pride and peace of mind, secure in her family shield. Emotion: peaceful and dignified. Key Object: Cluttered-free clean dining table."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 9,
+   "title": "Kalendar-disiplin-bulanan",
+   "arc": "Padanan Skrip: Skrip 9: Formula 'Never Miss Twice' & Pilihan 5 Tahun | Jenis shot: Overhead / flat-lay (muka di luar frame)   |   Guna untuk ayat: \"never miss twice\", \"jangan tinggal dua kali\", \"undi identiti pelindung\"",
+   "gaya": "Overhead / flat-lay (muka di luar frame)",
+   "duration": 8,
+   "skrip": "Skrip 9: Formula 'Never Miss Twice' & Pilihan 5 Tahun",
+   "ayat": "\"never miss twice\", \"jangan tinggal dua kali\", \"undi identiti pelindung\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Skrip 9: Formula 'Never Miss Twice' & Pilihan 5 Tahun",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Kalendar-disiplin-bulanan\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed. In this clip only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame; her face is completely out of frame.\n\nKEY OBJECTS: A large minimalist wall/desk calendar grid showing numbered date blocks, a dark green felt-tip pen, oak table surface.\n\nLOCATION & LIGHT: Directly top-down flat-lay, bright diffused morning illumination, clean neutral tones, balanced soft lighting.\n\nSTORYBOARD (one continuous shot, fixed vertical overhead flat-lay perspective):\nFrame 1 - 0.0s - START: Overhead flat-lay. The calendar shows two previous months with unbroken chains of green circles on the 28th date of each month. Hand holds pen poised over the current 28th. Emotion: focused. Key Object: Monthly calendar with marked dates.\nFrame 2 - 2.5s - ACTION: Her hand draws a confident, solid green circle around the current month's target date, keeping the streak alive. Emotion: determined. Key Object: Green pen circling date.\nFrame 3 - 5.0s - PEAK: She lifts the pen, viewing the unbroken three-month sequence of green circles aligned in a perfect disciplined row. Emotion: proud. Key Object: Unbroken streak of circled dates.\nFrame 4 - 7.5s - END: Her hand rests flat beside the calendar, pen laid alongside the bottom margin, calm and resolute. Emotion: disciplined. Key Object: Resting hand beside calendar.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: only her hands, wrists, striped sleeves and the lower edge of the pink hijab are in frame, and her face stays fully out of frame for the whole clip.\n- The calendar layout, green pen, desk wood grain, striped sleeves and white handsocks stay consistent throughout.\n\nSCENE: Desk surface, crisp bright natural morning light from above, clean composition.\n\nACTION: 0-0.5s hand hovering pen over date. 0.5-2.5s hand draws smooth green circle around date. 2.5-5.5s hand lifts pen to admire the unbroken streak. 5.5-8.0s pen laid down, hand rests flat, still.\n\nCAMERA: Fixed overhead tripod, locked vertical 9:16 angle, steady.\n\nAUDIO: Natural ambient sound only (felt-tip pen gliding smoothly on paper, quiet desk surface tap). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "hand hovering pen over date"
+      },
+      {
+       "time": "0.5-2.5s",
+       "action": "hand draws smooth green circle around date"
+      },
+      {
+       "time": "2.5-5.5s",
+       "action": "hand lifts pen to admire the unbroken streak"
+      },
+      {
+       "time": "5.5-8.0s",
+       "action": "pen laid down, hand rests flat, still"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Overhead flat-lay. The calendar shows two previous months with unbroken chains of green circles on the 28th date of each month. Hand holds pen poised over the current 28th. Emotion: focused. Key Object: Monthly calendar with marked dates."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: Her hand draws a confident, solid green circle around the current month's target date, keeping the streak alive. Emotion: determined. Key Object: Green pen circling date."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: She lifts the pen, viewing the unbroken three-month sequence of green circles aligned in a perfect disciplined row. Emotion: proud. Key Object: Unbroken streak of circled dates."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: Her hand rests flat beside the calendar, pen laid alongside the bottom margin, calm and resolute. Emotion: disciplined. Key Object: Resting hand beside calendar."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "set": 10,
+   "title": "Lega-tenang-simpanan",
+   "arc": "Padanan Skrip: Rumusan Koleksi 9 Skrip: Ketenangan Jiwa & Kalis Krisis | Jenis shot: Watak medium (muka nampak penuh)   |   Guna untuk ayat: \"hati tenang ada simpanan\", \"financial peace of mind\", \"kalis krisis 5 tahun\"",
+   "gaya": "Watak medium (muka nampak penuh)",
+   "duration": 8,
+   "skrip": "Rumusan Koleksi 9 Skrip: Ketenangan Jiwa & Kalis Krisis",
+   "ayat": "\"hati tenang ada simpanan\", \"financial peace of mind\", \"kalis krisis 5 tahun\"",
+   "scenes": [
+    {
+     "scene": 1,
+     "heading": "Rumusan Koleksi 9 Skrip: Ketenangan Jiwa & Kalis Krisis",
+     "imageLabel": "Bahagian 1 : Storyboard Image Prompt (English)",
+     "imagePrompt": "CANVAS: A4 portrait storyboard poster, 2x2 grid of four equal 9:16 vertical frames, thin white gutters, clean off-white background. Photorealistic cinematic live-action stills, not illustration.\n\nHEADER: Small neutral title strip at the top: \"B-ROLL - Lega-tenang-simpanan\" (storyboard label only, never part of the video).\n\nLEGEND: Under each frame, one short line: frame number, timestamp, camera note.\n\nMAIN CHARACTER: Use the attached reference photo as the exact identity of the main character: same face, same eyeglasses, same hijab, same mole. A Malaysian Malay woman in her early 30s with a soft round face, warm light-tan skin, natural full eyebrows, dark brown eyes and a gentle closed-mouth smile. She wears bold thick-rimmed rectangular black eyeglasses in every panel; the glasses are never removed and stay identical throughout. She has one small dark mole just below her nose on her left side (it appears on the viewer's right, above the upper lip), visible whenever her face is in frame. She always wears a hijab: a dusty-pink chiffon shawl wrapped neatly around the face, fully covering all of her hair, ears and neck, with the long ends draped loosely over her chest and shoulders. No hair is ever visible. Never a beanie, cap, hat, headband or turban instead of the hijab. Her outfit is a loose, long, pink-and-white vertically striped long-sleeved shirt over a loose top, modest and never tight. No bracelets, no watch, no rings. Her outer top always has full-length long sleeves reaching all the way down to the wrists - never three-quarter, never rolled up, never pushed back. Underneath the sleeves she wears plain close-fitting inner handsocks in white, visible only as a narrow cuff peeking out at the wrists and covering the wrists; her forearms are never exposed.\n\nKEY OBJECTS: A comfortable living room armchair, a small side table with a cup of warm tea, soft knit cushion.\n\nLOCATION & LIGHT: Living room in late afternoon, golden hour glow diffused from the side, warm airy tones, soft bokeh.\n\nSTORYBOARD (one continuous shot, camera on tripod, eye-level medium portrait):\nFrame 1 - 0.0s - START: Medium shot from waist up with generous headroom. She is seated comfortably in the armchair, hands resting folded gently on her lap. Mouth closed. Emotion: calm. Key Object: Armchair and tea cup.\nFrame 2 - 2.5s - ACTION: A gentle, genuine closed-mouth smile spreads across her face as she exhales slowly. Her shoulders relax visibly. Emotion: relieved. Key Object: Relaxed posture.\nFrame 3 - 5.0s - PEAK: She turns her gaze slightly toward the warm light, eyes softening with deep inner serenity and gratitude. Lips closed, no speech. Emotion: serene and secure. Key Object: Warm glowing ambiance.\nFrame 4 - 7.5s - END: She rests her head back slightly against the cushion, completely at peace, embodying complete financial freedom and security. Emotion: fulfilled. Key Object: Resting posture in armchair.\n\nREQUIREMENTS:\n- Same woman as the attached reference photo in every panel: same face, same black thick-rimmed eyeglasses, same small mole below her nose on her left side, same dusty-pink hijab and striped outfit.\n- She always wears the hijab fully covering her hair, ears and neck. Never a beanie, cap, hat or uncovered hair.\n- Sleeves stay full length down to the wrists in every panel, with plain inner handsocks showing only as a narrow cuff at the wrists. Never three-quarter sleeves, never rolled-up sleeves, never bare forearms.\n- Either her whole face and whole hijab are in frame with headroom above, or her face is completely out of frame. Never crop through her face, forehead or eyes.\n- Main action and key objects stay in the central area of each vertical frame, away from the top and bottom 20%.\n- No on-screen text, captions, logos, brand names, readable banknotes, readable numbers, gold bars, or piggy banks.\n- Photorealistic, natural soft light, warm neutral grade, shallow depth of field.\n\nOUTPUT: One A4 portrait poster with the four frames above.",
+     "videoLabel": "Bahagian 2 : Video Prompt (English)",
+     "videoPrompt": "REFERENCE: Use the storyboard poster as the visual reference. Generate ONE continuous vertical 9:16 shot that moves through Frame 1 to Frame 4 in order. Do not cut between frames.\n\nCHARACTER & OBJECT CONSISTENCY:\n- The woman is identical to the reference image for the entire duration: same face, same black thick-rimmed rectangular eyeglasses (never removed), same small dark mole below her nose on her left side, same dusty-pink hijab fully covering her hair, ears and neck, same pink-and-white striped long top. Never a beanie, cap or uncovered hair.\n- Her outer sleeves stay full length down to the wrists for the entire duration, with the plain inner handsocks visible only as a narrow cuff at the wrists, identical to the reference image. Never roll up, push back, or shorten the sleeves, and never expose her forearms at any point.\n- The framing never cuts through her face: her whole face and hijab stay in frame with headroom, or her face stays fully out of frame for the whole clip.\n- The woman's eyeglasses, mole, pink hijab, striped shirt, white handsocks, armchair, and tea cup remain identical throughout.\n\nSCENE: Living room setting, late afternoon golden ambience, warm gentle atmosphere, shallow depth of field.\n\nACTION: 0-0.5s still. 0.5-3.0s gentle closed-mouth smile appears and shoulders drop in deep relaxation. 3.0-6.0s she gazes toward the warm light with deep serenity. 6.0-8.0s rests back comfortably, completely tranquil.\n\nCAMERA: Tripod, slow imperceptible push-in, silky smooth.\n\nAUDIO: Natural ambient sound only (soft breath of relief, quiet room ambience, subtle fabric rustle). No speech, no voiceover, no music. The character does not talk and her lips do not move as if speaking.\n\nON-SCREEN TEXT: None. No captions, no logos, no brand names, no readable numbers.\n\nDURATION: 8 seconds, 9:16 vertical, 1080x1920.",
+     "dialog": [],
+     "timeline": [
+      {
+       "time": "0-0.5s",
+       "action": "still"
+      },
+      {
+       "time": "0.5-3.0s",
+       "action": "gentle closed-mouth smile appears and shoulders drop in deep relaxation"
+      },
+      {
+       "time": "3.0-6.0s",
+       "action": "she gazes toward the warm light with deep serenity"
+      },
+      {
+       "time": "6.0-8.0s",
+       "action": "rests back comfortably, completely tranquil"
+      }
+     ],
+     "panels": [
+      {
+       "n": 1,
+       "time": "0.0s",
+       "action": "START: Medium shot from waist up with generous headroom. She is seated comfortably in the armchair, hands resting folded gently on her lap. Mouth closed. Emotion: calm. Key Object: Armchair and tea cup."
+      },
+      {
+       "n": 2,
+       "time": "2.5s",
+       "action": "ACTION: A gentle, genuine closed-mouth smile spreads across her face as she exhales slowly. Her shoulders relax visibly. Emotion: relieved. Key Object: Relaxed posture."
+      },
+      {
+       "n": 3,
+       "time": "5.0s",
+       "action": "PEAK: She turns her gaze slightly toward the warm light, eyes softening with deep inner serenity and gratitude. Lips closed, no speech. Emotion: serene and secure. Key Object: Warm glowing ambiance."
+      },
+      {
+       "n": 4,
+       "time": "7.5s",
+       "action": "END: She rests her head back slightly against the cushion, completely at peace, embodying complete financial freedom and security. Emotion: fulfilled. Key Object: Resting posture in armchair."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
