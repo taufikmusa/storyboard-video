@@ -1,6 +1,11 @@
 {
  "batches": [
   {
+   "id": "b00-broll",
+   "label": "B-Roll",
+   "file": "b00-broll.json"
+  },
+  {
    "id": "b01-lelaki-emas",
    "label": "Lelaki-Emas-3-Scene-01",
    "file": "b01-lelaki-emas.json"

@@ -44,7 +44,7 @@
             batch: b, set: s, sc, isBoard, beats,
             tags: [...(b.tags || []), `scene-${sc.scene}`],
           };
-          item.hay = [s.title, sc.heading, s.gaya, b.label, ...item.tags, ...sc.dialog.map((d) => d.who + ' ' + d.line), ...beats.map((x) => x.a)].join(' ').toLowerCase();
+          item.hay = [s.title, sc.heading, s.gaya, s.ayat, b.label, ...item.tags, ...sc.dialog.map((d) => d.who + ' ' + d.line), ...beats.map((x) => x.a)].join(' ').toLowerCase();
           state.items.push(item);
         }
       }
@@ -78,11 +78,17 @@
     const { set: s, sc, batch: b } = it;
     const isUsed = !!used[it.id];
     const unit = it.isBoard ? `${sc.panels.length} panel` : `${it.beats.length} babak`;
+    const broll = b.kind === 'broll';
+    const where = broll ? `Klip ${pad(s.set)}` : `Set ${pad(s.set)} · Scene ${sc.scene}`;
+    const title = broll ? `Klip ${pad(s.set)}: ${esc(s.title)}` : `Set ${pad(s.set)} #${sc.scene}: ${esc(s.title)}`;
+    const box = sc.dialog.length
+      ? `<div class="box"><div class="box-h">Dialog</div><ol>${sc.dialog.map((d) => `<li><div>${d.who && d.who !== 'Hos' ? `<b>${esc(d.who)}:</b> ` : ''}${esc(d.line)}</div></li>`).join('')}</ol></div>`
+      : s.ayat ? `<div class="box"><div class="box-h">Guna untuk ayat</div><div>${esc(s.ayat)}</div></div>` : '';
     return `<article class="card${isUsed ? ' used' : ''}" data-id="${esc(it.id)}">
-      <div class="badges"><span class="badge gold">${esc(b.label)}</span><span class="badge">Set ${pad(s.set)} · Scene ${sc.scene} · ${unit}</span>${isUsed ? '<span class="badge ok">✓ dah guna</span>' : ''}</div>
-      <h3 data-act="open">Set ${pad(s.set)} #${sc.scene}: ${esc(s.title)}</h3>
-      <div class="sub">${esc(sc.heading)}${s.gaya ? ' • ' + esc(s.gaya) : ''} • 10 saat • 9:16</div>
-      <div class="box"><div class="box-h">Dialog</div><ol>${sc.dialog.map((d) => `<li><div>${d.who && d.who !== 'Hos' ? `<b>${esc(d.who)}:</b> ` : ''}${esc(d.line)}</div></li>`).join('')}</ol></div>
+      <div class="badges"><span class="badge gold">${esc(b.label)}</span><span class="badge">${where} · ${unit}</span>${isUsed ? '<span class="badge ok">✓ dah guna</span>' : ''}</div>
+      <h3 data-act="open">${title}</h3>
+      <div class="sub">${esc(sc.heading)}${s.gaya ? ' • ' + esc(s.gaya) : ''} • ${s.duration || 10} saat • 9:16</div>
+      ${box}
       <div class="tags">${it.tags.map((t) => `<span class="tag">#${esc(t)}</span>`).join('')}</div>
       <details class="expand"><summary>▼ Lihat ${unit}</summary><ol class="steps">${it.beats.map((x) => `<li><span>${esc(x.t)}</span>${esc(x.a)}</li>`).join('')}</ol></details>
       <div class="actions">
@@ -121,12 +127,12 @@
   const summary = (it) => {
     const { set: s, sc } = it;
     return [
-      `SET ${pad(s.set)} · SCENE ${sc.scene}: ${s.title}`,
+      it.batch.kind === 'broll' ? `KLIP ${pad(s.set)}: ${s.title}` : `SET ${pad(s.set)} · SCENE ${sc.scene}: ${s.title}`,
       `${sc.heading}${s.gaya ? ' | ' + s.gaya : ''}`,
       '',
-      'DIALOG:',
-      ...sc.dialog.map((d, i) => `${i + 1}. ${d.who && d.who !== 'Hos' ? d.who + ': ' : ''}${d.line}`),
-      '',
+      ...(sc.dialog.length
+        ? ['DIALOG:', ...sc.dialog.map((d, i) => `${i + 1}. ${d.who && d.who !== 'Hos' ? d.who + ': ' : ''}${d.line}`), '']
+        : s.ayat ? ['GUNA UNTUK AYAT:', s.ayat, ''] : []),
       it.isBoard ? 'PANEL:' : 'BABAK:',
       ...it.beats.map((x, i) => `${i + 1}. [${x.t}] ${x.a}`),
     ].join('\n');
@@ -134,7 +140,7 @@
 
   function openModal(it) {
     const { set: s, sc, batch: b } = it;
-    $('#mTitle').textContent = `Set ${pad(s.set)} · Scene ${sc.scene}: ${s.title}`;
+    $('#mTitle').textContent = b.kind === 'broll' ? `Klip ${pad(s.set)}: ${s.title}` : `Set ${pad(s.set)} · Scene ${sc.scene}: ${s.title}`;
     const siblings = s.scenes.map((x) => {
       const id = `${b.id}:s${pad(s.set)}-sc${x.scene}`;
       return `<button class="chip${x.scene === sc.scene ? ' on' : ''}" data-open="${esc(id)}">Scene ${x.scene}</button>`;

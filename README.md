@@ -12,6 +12,7 @@ data/manifest.json    # senarai batch yang dimuatkan
 data/<id>.json        # data setiap batch (dijana dari docx)
 sources/*.docx        # dokumen asal
 tools/docx_to_json.py # penukar docx -> json (stdlib Python sahaja)
+tools/broll_docx_to_json.py # penukar docx B-Roll (Klip N) -> json
 ```
 
 ## Tambah batch baru
@@ -26,6 +27,14 @@ tools/docx_to_json.py # penukar docx -> json (stdlib Python sahaja)
 3. Commit & push. GitHub Pages terus update.
 
 Format docx yang dijangka: `Heading 1` = `Set NN: Tajuk`, `Heading 2` = `Scene N: ...`, prompt image bermula `(A)`/`Bahagian 1`, prompt video bermula `(B)`/`Bahagian 2`.
+
+## Tab B-Roll
+
+Docx B-Roll guna format `Klip N : Nama` (setiap klip = 1 scene, 8 saat, tanpa dialog). Id `b00-broll` supaya tab ni sentiasa paling depan.
+
+```bash
+python3 tools/broll_docx_to_json.py sources/B_Roll_Koleksi_9_Skrip_Viral_Short.docx --id b00-broll --label "B-Roll"
+```
 
 ## Test local
 
