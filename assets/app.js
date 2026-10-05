@@ -44,7 +44,7 @@
             batch: b, set: s, sc, isBoard, beats,
             tags: [...(b.tags || []), `scene-${sc.scene}`],
           };
-          item.hay = [s.title, sc.heading, s.gaya, s.ayat, b.label, ...item.tags, ...sc.dialog.map((d) => d.who + ' ' + d.line), ...beats.map((x) => x.a)].join(' ').toLowerCase();
+          item.hay = [s.title, sc.heading, s.gaya, s.ayat, s.group, b.label, ...item.tags, ...sc.dialog.map((d) => d.who + ' ' + d.line), ...beats.map((x) => x.a)].join(' ').toLowerCase();
           state.items.push(item);
         }
       }
@@ -79,7 +79,7 @@
     const isUsed = !!used[it.id];
     const unit = it.isBoard ? `${sc.panels.length} panel` : `${it.beats.length} babak`;
     const broll = b.kind === 'broll';
-    const where = broll ? `Klip ${pad(s.set)}` : `Set ${pad(s.set)} · Scene ${sc.scene}`;
+    const where = broll ? `Klip ${pad(s.set)}${s.group ? ' · ' + esc(s.group) : ''}` : `Set ${pad(s.set)} · Scene ${sc.scene}`;
     const title = broll ? `Klip ${pad(s.set)}: ${esc(s.title)}` : `Set ${pad(s.set)} #${sc.scene}: ${esc(s.title)}`;
     const box = sc.dialog.length
       ? `<div class="box"><div class="box-h">Dialog</div><ol>${sc.dialog.map((d) => `<li><div>${d.who && d.who !== 'Hos' ? `<b>${esc(d.who)}:</b> ` : ''}${esc(d.line)}</div></li>`).join('')}</ol></div>`

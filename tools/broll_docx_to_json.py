@@ -3,7 +3,10 @@
 
 Setiap 'Klip N : Nama' jadi satu set dengan 1 scene sahaja.
 
-Guna:  python3 tools/broll_docx_to_json.py sources/B_Roll_xxx.docx --id b00-broll --label "B-Roll"
+Boleh beri beberapa docx sekaligus; semua digabung dalam satu tab, nombor klip bersambung
+ikut susunan fail, dan setiap klip ditanda kumpulan (Batch N / Live NN) dari nama fail.
+
+Guna:  python3 tools/broll_docx_to_json.py sources/B_Roll_*.docx --id b00-broll --label "B-Roll"
 Output: data/<id>.json, dan data/manifest.json dikemas kini automatik.
 """
 import argparse, json, re, sys
@@ -81,23 +84,39 @@ def parse(path):
     return guide, sets
 
 
+def group_label(path):
+    m = re.search(r"_(Batch|Live)_(\d+)$", Path(path).stem)
+    return f"{m.group(1)} {m.group(2)}" if m else "Batch 1"
+
+
+def group_key(path):
+    m = re.search(r"_(Batch|Live)_(\d+)$", Path(path).stem)
+    return (0, 1) if not m else (0 if m.group(1) == "Batch" else 1, int(m.group(2)))
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("docx")
+    ap.add_argument("docx", nargs="+")
     ap.add_argument("--id", required=True)
     ap.add_argument("--label", required=True)
     ap.add_argument("--tags", default="b-roll,8-saat,tanpa-dialog")
     a = ap.parse_args()
 
-    guide, sets = parse(a.docx)
-    if not sets:
-        sys.exit("Tiada 'Klip N :' dijumpai — semak format docx.")
+    guide, sets = [], []
+    for path in sorted(a.docx, key=group_key):
+        g, ss = parse(path)
+        if not ss:
+            sys.exit(f"Tiada 'Klip N :' dijumpai dalam {path} — semak format docx.")
+        guide = guide or g
+        for sc in ss:
+            sc.update(set=len(sets) + 1, group=group_label(path), klip=sc["set"])
+            sets.append(sc)
     out = {
         "id": a.id,
         "label": a.label,
         "kind": "broll",
         "title": "B-ROLL: KOLEKSI 9 SKRIP VIRAL SHORT",
-        "source": Path(a.docx).name,
+        "source": ", ".join(Path(p).name for p in sorted(a.docx, key=group_key)),
         "tags": [t.strip() for t in a.tags.split(",") if t.strip()],
         "guide": [{"h": "Panduan B-Roll"},
                   {"p": "Pustaka klip 8 saat, 9:16 menegak, satu shot berterusan tanpa dialog. Setiap klip = 1 scene: "
@@ -120,7 +139,7 @@ def main():
         if len(sc["panels"]) != 4: flags.append(f"frame={len(sc['panels'])}")
         if len(sc["timeline"]) != 4: flags.append(f"action={len(sc['timeline'])}")
         if not sc["imagePrompt"] or not sc["videoPrompt"]: flags.append("prompt kosong")
-        if flags: print(f"  ! Klip {s['set']:02d}: {', '.join(flags)}")
+        if flags: print(f"  ! Klip {s['set']:02d} ({s['group']} #{s['klip']}): {', '.join(flags)}")
 
 
 if __name__ == "__main__":
