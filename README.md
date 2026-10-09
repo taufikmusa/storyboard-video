@@ -18,7 +18,7 @@ tools/script_docx_to_json.py # penukar docx SET #NN / SCENE N -> json
 
 ## Tambah batch baru
 
-Tab sekarang: **Script-01** (30 set × 3 scene = 90 scene, edisi kucing 3D & storyboard emas).
+Tab sekarang: **Script-01** dan **Script-02** (setiap satu 30 set × 3 scene = 90 scene, edisi kucing 3D & storyboard emas).
 
 1. Letak docx dalam `sources/`.
 2. Jalankan converter ikut format docx:
