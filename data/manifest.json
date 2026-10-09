@@ -9,6 +9,11 @@
    "id": "s02-script",
    "label": "Script-02",
    "file": "s02-script.json"
+  },
+  {
+   "id": "s03-script",
+   "label": "Script-03",
+   "file": "s03-script.json"
   }
  ]
 }

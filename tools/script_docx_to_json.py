@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Tukar dokumen 'Koleksi Lengkap 30 Set Prompt Bersiri 3 Scene' (.docx) kepada JSON untuk Storyboard Vault.
 
-Format: 'SET #NN: TAJUK' -> 'SCENE N: TAJUK (jenis)' -> '(A) ...' image prompt -> '(B) ...' video prompt.
-Scene 1/2: dialog selepas 'DO NOT TRANSLATE THESE LINES:', timeline 'a-bs ...'.
+Format: 'SET #NN: TAJUK' atau 'SET NN — TAJUK' -> 'SCENE N: TAJUK' -> '(A) ...' image prompt -> '(B) ...' video prompt.
+Scene 1/2: dialog selepas 'DO NOT TRANSLATE THESE LINES:' (Nama: "baris") atau 'Dialogue (...)' (bernombor),
+timeline 'a-bs ...' / '- a-bs: ...'.
 Scene 3: panel storyboard 'N. Nama - SHOT' + 'Action:'/'Time:', dialog bernombor selepas 'Dialogue (spoken ...)'.
+Jadual ringkasan (#NN / NN, sudut/persona, tajuk, gaya) dibaca untuk tajuk & gaya setiap set.
 
 Guna:  python3 tools/script_docx_to_json.py sources/xxx.docx --id s01-script --label "Script-01" --tags "kucing,emas"
 """
@@ -14,22 +16,47 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from docx_to_json import DATA, clean_block, read_paragraphs
 
 
-def parse_guide(paras):
-    guide, items = [], None
-    for style, text in paras:
-        t = text.strip()
-        if re.match(r"^3\.\s", t):
+SET_RE = re.compile(r"^SET #?(\d+)\s*[:—–-]\s*(.*)$")
+ROW_RE = re.compile(r"^#?(\d{1,2})$")
+
+
+def parse_table(paras):
+    """Jadual ringkasan sebelum SET pertama: no, persona/sudut, tajuk, gaya.
+    Pulangkan (rows, (mula, akhir)) — julat termasuk tajuk jadual + 4 header lajur."""
+    texts = [t.strip() for _, t in paras]
+    out, first, last = {}, None, None
+    for i, t in enumerate(texts[:-3]):
+        if SET_RE.match(t):
             break
-        if re.match(r"^\d+\.\s+[A-Z]", t):
-            guide.append({"h": t})
+        m = ROW_RE.match(t)
+        if m:
+            out[int(m.group(1))] = {"persona": texts[i + 1], "title": texts[i + 2], "gaya": texts[i + 3]}
+            first = i if first is None else first
+            last = i + 3
+    return out, ((first - 5, last) if first is not None else (-1, -1))
+
+
+def parse_guide(paras, span):
+    guide, items = [], None
+    for i, (style, text) in enumerate(paras):
+        t = text.strip()
+        if SET_RE.match(t):
+            break
+        if span[0] <= i <= span[1]:
+            items = None
+            continue
+        bullet = style == "ListBullet" or t.startswith("- ")
+        if not bullet and (re.match(r"^\d+\.\s+[A-Z]", t) or t.startswith("BAHAGIAN")
+                           or (t.endswith(":") and len(t) < 90)):
+            guide.append({"h": t.rstrip(":")})
             items = None
         elif not guide:
             continue
-        elif style == "ListBullet":
+        elif bullet:
             if items is None:
                 items = []
                 guide.append({"items": items})
-            items.append(t)
+            items.append(t[2:] if t.startswith("- ") else t)
         else:
             # baris pendek tanpa noktah = nama watak / sub-tajuk dalam Character Reference Sheet
             guide.append({"h": t} if len(t) < 60 and "." not in t else {"p": t})
@@ -37,26 +64,17 @@ def parse_guide(paras):
     return guide
 
 
-def parse_table(paras):
-    """Jadual '3. SENARAI 30 SET': #NN, persona, tajuk, gaya."""
-    texts = [t.strip() for _, t in paras]
-    out = {}
-    for i, t in enumerate(texts[:-3]):
-        if re.match(r"^#\d+$", t):
-            out[int(t[1:])] = {"persona": texts[i + 1], "title": texts[i + 2], "gaya": texts[i + 3]}
-    return out
-
-
 def parse_scene(num, heading, body):
+    start = next((i for i, l in enumerate(body) if l.strip().startswith("(A)")), 0)
     split = next((i for i, l in enumerate(body) if l.strip().startswith("(B)")), len(body))
-    img, vid = body[:split], body[split:]
+    img, vid = body[start:split], body[split:]
     image_prompt, video_prompt = clean_block(img[1:]), clean_block(vid[1:])
 
     dialog, timeline, panels = [], [], []
     on = False
     for l in vid:
         s = l.strip()
-        if s.startswith("DO NOT TRANSLATE") or s.startswith("Dialogue (spoken"):
+        if s.startswith("DO NOT TRANSLATE") or s.startswith("Dialogue ("):
             on = True
             continue
         if on:
@@ -65,10 +83,10 @@ def parse_scene(num, heading, body):
             if m:
                 dialog.append({"who": m.group(1).strip(), "line": m.group(2).strip()})
             elif n:
-                dialog.append({"who": "Hos", "line": n.group(1).strip()})
+                dialog.append({"who": "Hos" if num == 3 else "", "line": n.group(1).strip()})
             else:
                 on = False
-        m = re.match(r"^([\d.]+-[\d.]+s)\s+(.*)$", s)
+        m = re.match(r"^(?:-\s*)?([\d.]+-[\d.]+s):?\s+(.*)$", s)
         if m:
             timeline.append({"time": m.group(1), "action": m.group(2)})
 
@@ -100,7 +118,8 @@ def parse_scene(num, heading, body):
 def parse(path):
     paras = [(s, t) for s, t in read_paragraphs(path) if t.strip()]
     title = paras[0][1].replace("\n", " ").strip() if paras else ""
-    guide, table = parse_guide(paras), parse_table(paras)
+    table, span = parse_table(paras)
+    guide = parse_guide(paras, span)
     sets, cur_set, cur_scene, buf = [], None, None, []
 
     def flush():
@@ -111,7 +130,7 @@ def parse(path):
 
     for _, text in paras:
         t = text.strip()
-        m = re.match(r"^SET #(\d+):\s*(.*)$", t)
+        m = SET_RE.match(t)
         if m:
             flush()
             n = int(m.group(1))
@@ -146,7 +165,7 @@ def main():
 
     title, guide, sets = parse(a.docx)
     if not sets:
-        sys.exit("Tiada 'SET #NN:' dijumpai — semak format docx.")
+        sys.exit("Tiada 'SET #NN:' / 'SET NN —' dijumpai — semak format docx.")
     out = {
         "id": a.id,
         "label": a.label,
