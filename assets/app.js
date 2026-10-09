@@ -79,13 +79,14 @@
     const isUsed = !!used[it.id];
     const unit = it.isBoard ? `${sc.panels.length} panel` : `${it.beats.length} babak`;
     const broll = b.kind === 'broll';
-    const where = broll ? `Klip ${pad(s.set)}${s.group ? ' · ' + esc(s.group) : ''}` : `Set ${pad(s.set)} · Scene ${sc.scene}`;
+    const tag = broll ? `Klip-${pad(s.set)}` : `Set-${pad(s.set)}`;
+    const where = broll ? (s.group ? esc(s.group) + ' · ' : '') : `Scene ${sc.scene} · `;
     const title = broll ? `Klip ${pad(s.set)}: ${esc(s.title)}` : `Set ${pad(s.set)} #${sc.scene}: ${esc(s.title)}`;
     const box = sc.dialog.length
       ? `<div class="box"><div class="box-h">Dialog</div><ol>${sc.dialog.map((d) => `<li><div>${d.who && d.who !== 'Hos' ? `<b>${esc(d.who)}:</b> ` : ''}${esc(d.line)}</div></li>`).join('')}</ol></div>`
       : s.ayat ? `<div class="box"><div class="box-h">Guna untuk ayat</div><div>${esc(s.ayat)}</div></div>` : '';
     return `<article class="card${isUsed ? ' used' : ''}" data-id="${esc(it.id)}">
-      <div class="badges"><span class="badge gold">${esc(b.label)}</span><span class="badge">${where} · ${unit}</span>${isUsed ? '<span class="badge ok">✓ dah guna</span>' : ''}</div>
+      <div class="badges"><span class="badge gold">${tag}</span><span class="badge">${where}${unit}</span>${isUsed ? '<span class="badge ok">✓ dah guna</span>' : ''}</div>
       <h3 data-act="open">${title}</h3>
       <div class="sub">${esc(sc.heading)}${s.gaya ? ' • ' + esc(s.gaya) : ''} • ${s.duration || 10} saat • 9:16</div>
       ${box}
