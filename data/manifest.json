@@ -1,39 +1,9 @@
 {
  "batches": [
   {
-   "id": "b00-broll",
-   "label": "B-Roll",
-   "file": "b00-broll.json"
-  },
-  {
-   "id": "b01-lelaki-emas",
-   "label": "Lelaki-Emas-3-Scene-01",
-   "file": "b01-lelaki-emas.json"
-  },
-  {
-   "id": "b02-outdoor-emas",
-   "label": "Outdoor-Emas-3-Scene-02",
-   "file": "b02-outdoor-emas.json"
-  },
-  {
-   "id": "b03-lawak-emas",
-   "label": "Lawak-Emas-3-Scene-03",
-   "file": "b03-lawak-emas.json"
-  },
-  {
-   "id": "b04-lawak-emas",
-   "label": "Lawak-Emas-3-Scene-04",
-   "file": "b04-lawak-emas.json"
-  },
-  {
-   "id": "b05-lawak-emas",
-   "label": "Lawak-Emas-3-Scene-05",
-   "file": "b05-lawak-emas.json"
-  },
-  {
-   "id": "b06-lawak-emas",
-   "label": "Lawak-Emas-3-Scene-06",
-   "file": "b06-lawak-emas.json"
+   "id": "s01-script",
+   "label": "Script-01",
+   "file": "s01-script.json"
   }
  ]
 }

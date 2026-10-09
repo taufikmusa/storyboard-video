@@ -13,28 +13,24 @@ data/<id>.json        # data setiap batch (dijana dari docx)
 sources/*.docx        # dokumen asal
 tools/docx_to_json.py # penukar docx -> json (stdlib Python sahaja)
 tools/broll_docx_to_json.py # penukar docx B-Roll (Klip N) -> json
+tools/script_docx_to_json.py # penukar docx SET #NN / SCENE N -> json
 ```
 
 ## Tambah batch baru
 
+Tab sekarang: **Script-01** (30 set × 3 scene = 90 scene, edisi kucing 3D & storyboard emas).
+
 1. Letak docx dalam `sources/`.
-2. Jalankan:
-   ```bash
-   python3 tools/docx_to_json.py sources/Batch_07_xxx.docx --id b07-nama-batch \
-     --label "Nama-Batch-3-Scene-07" --tags "lelaki,emas,3-scene,batch-07"
-   ```
-   Script akan tulis `data/b07-nama-batch.json` dan kemas kini `data/manifest.json`, dan beri amaran kalau ada scene yang dialog/panel tak cukup.
+2. Jalankan converter ikut format docx:
+   - Format `SET #NN:` / `SCENE N:` (Script-01):
+     ```bash
+     python3 tools/script_docx_to_json.py sources/xxx.docx --id s02-script --label "Script-02" --tags "kucing,emas,3-scene,script-02"
+     ```
+   - Format lama `Set NN:` (Heading 1) / `Scene N:` (Heading 2): `tools/docx_to_json.py`
+   - Format B-Roll `Klip N :`: `tools/broll_docx_to_json.py`
+
+   Script akan tulis `data/<id>.json`, kemas kini `data/manifest.json`, dan beri amaran kalau ada scene yang dialog/panel/timeline tak cukup.
 3. Commit & push. GitHub Pages terus update.
-
-Format docx yang dijangka: `Heading 1` = `Set NN: Tajuk`, `Heading 2` = `Scene N: ...`, prompt image bermula `(A)`/`Bahagian 1`, prompt video bermula `(B)`/`Bahagian 2`.
-
-## Tab B-Roll
-
-Docx B-Roll guna format `Klip N : Nama` (setiap klip = 1 scene, 8 saat, tanpa dialog). Semua docx `B_Roll_*` digabung dalam satu tab: nombor klip bersambung (fail asal dulu, lepas tu `Batch_N`, kemudian `Live_NN`) dan setiap card ada badge kumpulan. Bila tambah docx baru, jalankan semula dengan semua fail. Id `b00-broll` supaya tab ni sentiasa paling depan.
-
-```bash
-python3 tools/broll_docx_to_json.py sources/B_Roll_*.docx --id b00-broll --label "B-Roll"
-```
 
 ## Test local
 
