@@ -15,6 +15,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from docx_to_json import DATA, clean_block, read_paragraphs
+import video_beats
 
 
 SET_RE = re.compile(r"^SET #?(\d+)\s*[:—–-]\s*(.*)$")
@@ -190,6 +191,7 @@ def main():
         "guide": guide,
         "sets": sets,
     }
+    fixed = video_beats.apply(out)  # babak video diselaraskan dengan dialog (data/beats/<id>.json)
     DATA.mkdir(exist_ok=True)
     (DATA / f"{a.id}.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -201,7 +203,7 @@ def main():
     mpath.write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
 
     n = sum(len(s["scenes"]) for s in sets)
-    print(f"OK: {len(sets)} set, {n} scene -> data/{a.id}.json")
+    print(f"OK: {len(sets)} set, {n} scene -> data/{a.id}.json" + (f" ({fixed} video prompt diselaraskan)" if fixed else ""))
     for s in sets:
         if len(s["scenes"]) != 3: print(f"  ! Set {s['set']:02d}: scene={len(s['scenes'])}")
         for sc in s["scenes"]:

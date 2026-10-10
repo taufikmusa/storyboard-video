@@ -14,6 +14,8 @@ sources/*.docx        # dokumen asal
 tools/docx_to_json.py # penukar docx -> json (stdlib Python sahaja)
 tools/broll_docx_to_json.py # penukar docx B-Roll (Klip N) -> json
 tools/script_docx_to_json.py # penukar docx SET #NN / SCENE N -> json
+tools/video_beats.py  # selaraskan shot breakdown video Scene 1/2 dengan dialog
+data/beats/<id>.json  # babak video yang dah diselaraskan (dipakai automatik oleh converter)
 ```
 
 ## Tambah batch baru
@@ -33,6 +35,15 @@ Tab sekarang: **Script-01** hingga **Script-07** (setiap satu 30 set × 3 scene 
 
    Script akan tulis `data/<id>.json`, kemas kini `data/manifest.json`, dan beri amaran kalau ada scene yang dialog/panel/timeline tak cukup.
 3. Commit & push. GitHub Pages terus update.
+
+## Video prompt selari dengan dialog (Google Flow)
+
+Untuk lip-sync Google Flow, setiap babak dalam shot breakdown Scene 1/2 mesti fokus pada watak yang sedang menyebut baris dialog itu, ikut turutan (babak 1 = baris 1, dan seterusnya). Dialog tak diubah.
+
+- Babak disimpan dalam `data/beats/<id>.json` sebagai `{"SS-N": [babak1, babak2, babak3, babak4]}`.
+- Masa babak dikira automatik ikut panjang baris dialog (min 2.0s, jumlah 10s).
+- `script_docx_to_json.py` guna fail ni setiap kali jalan, jadi semakan kekal bila docx dijana semula.
+- Untuk tab baru: `python3 tools/video_beats.py dump s08-script` untuk tengok dialog + babak asal, tulis `data/beats/s08-script.json`, kemudian jalankan semula converter.
 
 ## Test local
 
