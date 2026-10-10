@@ -18,7 +18,7 @@ tools/script_docx_to_json.py # penukar docx SET #NN / SCENE N -> json
 
 ## Tambah batch baru
 
-Tab sekarang: **Script-01** hingga **Script-04** (setiap satu 30 set × 3 scene = 90 scene, edisi kucing 3D & storyboard emas).
+Tab sekarang: **Script-01** hingga **Script-05** (setiap satu 30 set × 3 scene = 90 scene, edisi kucing 3D & storyboard emas).
 
 1. Letak docx dalam `sources/`.
 2. Jalankan converter ikut format docx:
@@ -28,6 +28,8 @@ Tab sekarang: **Script-01** hingga **Script-04** (setiap satu 30 set × 3 scene 
      ```
    - Format lama `Set NN:` (Heading 1) / `Scene N:` (Heading 2): `tools/docx_to_json.py`
    - Format B-Roll `Klip N :`: `tools/broll_docx_to_json.py`
+
+   Nombor set dalam docx diabaikan — setiap tab sentiasa Set-01 hingga Set-30 ikut susunan dalam docx.
 
    Script akan tulis `data/<id>.json`, kemas kini `data/manifest.json`, dan beri amaran kalau ada scene yang dialog/panel/timeline tak cukup.
 3. Commit & push. GitHub Pages terus update.

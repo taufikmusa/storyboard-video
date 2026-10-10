@@ -6,6 +6,7 @@ Scene 1/2: dialog selepas 'DO NOT TRANSLATE THESE LINES:' (Nama: "baris") atau '
 timeline 'a-bs ...' / '- a-bs: ...'.
 Scene 3: panel storyboard 'N. Nama - SHOT' + 'Action:'/'Time:', dialog bernombor selepas 'Dialogue (spoken ...)'.
 Jadual ringkasan (#NN / NN, sudut/persona, tajuk, gaya) dibaca untuk tajuk & gaya setiap set.
+Nombor set dalam docx diabaikan; output sentiasa dinombor semula 1..N ikut susunan.
 
 Guna:  python3 tools/script_docx_to_json.py sources/xxx.docx --id s01-script --label "Script-01" --tags "kucing,emas"
 """
@@ -21,19 +22,30 @@ ROW_RE = re.compile(r"^#?(\d{1,2})$")
 
 
 def parse_table(paras):
-    """Jadual ringkasan sebelum SET pertama: no, persona/sudut, tajuk, gaya.
-    Pulangkan (rows, (mula, akhir)) — julat termasuk tajuk jadual + 4 header lajur."""
+    """Jadual ringkasan sebelum SET pertama. Lajur dikenal pasti ikut nama header
+    (Tajuk -> title, Gaya -> gaya, Persona/Sudut/Isu/Topik -> persona), jadi bilangan & susunan lajur boleh berbeza.
+    Pulangkan (rows, (mula, akhir)) — julat termasuk tajuk jadual + header lajur."""
     texts = [t.strip() for _, t in paras]
-    out, first, last = {}, None, None
-    for i, t in enumerate(texts[:-3]):
-        if SET_RE.match(t):
-            break
-        m = ROW_RE.match(t)
-        if m:
-            out[int(m.group(1))] = {"persona": texts[i + 1], "title": texts[i + 2], "gaya": texts[i + 3]}
-            first = i if first is None else first
-            last = i + 3
-    return out, ((first - 5, last) if first is not None else (-1, -1))
+    end = next((i for i, t in enumerate(texts) if SET_RE.match(t)), len(texts))
+    first = next((i for i in range(end) if ROW_RE.match(texts[i])), None)
+    if first is None:
+        return {}, (-1, -1)
+    h = first
+    while h > 0 and len(texts[h - 1]) < 40 and not re.match(r"^\d+\.\s", texts[h - 1]):
+        h -= 1
+    headers = texts[h:first][1:]  # buang lajur nombor (Set / No.)
+    def col(*keys, skip=()):  # kata kunci awal diutamakan
+        return next((k for w in keys for k, x in enumerate(headers) if w in x.lower() and k not in skip), None)
+    ct, cg = col("tajuk"), col("gaya")
+    cp = col("persona", "sudut", "isu", "topik", skip=(ct, cg))
+    n, out, last, i = len(headers), {}, first, first
+    while i + n < end and ROW_RE.match(texts[i]):
+        cells = texts[i + 1:i + 1 + n]
+        get = lambda c: cells[c].split("\n")[0].strip() if c is not None else ""
+        out[int(ROW_RE.match(texts[i]).group(1))] = {"persona": get(cp), "title": get(ct), "gaya": get(cg)}
+        last = i + n
+        i += n + 1
+    return out, (h - 1, last)
 
 
 def parse_guide(paras, span):
@@ -152,6 +164,9 @@ def parse(path):
             continue
         buf.append(text)
     flush()
+    # nombor set dalam docx diabaikan: setiap tab sentiasa Set-01, Set-02, ... ikut susunan
+    for i, st in enumerate(sets, 1):
+        st["set"] = i
     return title, guide, sets
 
 
