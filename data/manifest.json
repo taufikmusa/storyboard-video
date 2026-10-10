@@ -24,6 +24,11 @@
    "id": "s05-script",
    "label": "Script-05",
    "file": "s05-script.json"
+  },
+  {
+   "id": "s06-script",
+   "label": "Script-06",
+   "file": "s06-script.json"
   }
  ]
 }

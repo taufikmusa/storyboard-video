@@ -18,7 +18,7 @@ from docx_to_json import DATA, clean_block, read_paragraphs
 
 
 SET_RE = re.compile(r"^SET #?(\d+)\s*[:—–-]\s*(.*)$")
-ROW_RE = re.compile(r"^#?(\d{1,2})$")
+ROW_RE = re.compile(r"^#?(\d{1,3})$")
 
 
 def parse_table(paras):
